@@ -1,0 +1,771 @@
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	67
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	15
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	81
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	44
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	45
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	33
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	468
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	22
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	93
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	100
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	512
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	65
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	274
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	261
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	26
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	142
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	52
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	21
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	29
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	19
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	224
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	69
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	116
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	30
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	77
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	15
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	58
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	74
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	191
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	33
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	92
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	42
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	42
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	41
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	39
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	66
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	128
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	166
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	62
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	61
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	45
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	143
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	39
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	129
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	83
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	85
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	49
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	52
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	19
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	32
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	24
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	13
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	87
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	13
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	82
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	19
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	49
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	41
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	24
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	106
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	28
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	150
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	81
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	76
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	28
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	30
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	22
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	33
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	26
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	19
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	26
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	23
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	55
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	22
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	27
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	49
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	91
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	15
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	47
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	34
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	32
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	33
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	69
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	151
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	48
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	75
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	21
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	57
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	50
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	47
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	129
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	15
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	13
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Jay Collins	REP	0	89690	152
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Jay Collins	REP	0	89690	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Jay Collins	REP	0	89690	37
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Jay Collins	REP	0	89690	39
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Jay Collins	REP	0	89690	206
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Jay Collins	REP	0	89690	23
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Jay Collins	REP	0	89690	103
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Jay Collins	REP	0	89690	107
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Jay Collins	REP	0	89690	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Jay Collins	REP	0	89690	53
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Jay Collins	REP	0	89690	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	210
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	34
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	20
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	169
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	29
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	103
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	68
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	65
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	44
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	69
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	21
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	27
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	68
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	54
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	43
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	24
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	83
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	33
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	126
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	61
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	79
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	44
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Governor	 	160001	UnderVotes	 	0	902	13
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Governor	 	160001	UnderVotes	 	0	902	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	28
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	24
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	22
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	13
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	27
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	205
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	50
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	100
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	23
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	67
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	13
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	65
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	57
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	160
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	25
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	30
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	26
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Governor	 	160002	UnderVotes	 	0	902	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Governor	 	160002	UnderVotes	 	0	902	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Governor	 	160002	UnderVotes	 	0	902	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Governor	 	160002	UnderVotes	 	0	902	8
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	245
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	48
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	49
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	274
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	32
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	175
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	146
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	21
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	100
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	279
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	20
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	53
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	53
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	291
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	50
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	143
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	156
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	73
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	39
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	59
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	71
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	31
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	15
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	109
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	26
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	66
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	34
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	27
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	51
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	89
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	197
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	56
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	92
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	21
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	82
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	71
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	58
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	162
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	34
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	21
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	13
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	419
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	24
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	85
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	91
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	404
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	59
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	221
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	197
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	27
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	120
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	44
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	131
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	27
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	21
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	212
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	25
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	109
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	105
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	58
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	12
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	33
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	20
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	19
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	154
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	39
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	82
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	16
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	52
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	43
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	55
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	3
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	128
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	22
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	829	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	145
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	312	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	44
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	567	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	76
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	146	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	25
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	386	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	63
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	58	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	268	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	50
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	271	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	50
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	22	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	5
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	855	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	119
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	125	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	22
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	28
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	15
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	7
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	152
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	46
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	33
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	195
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	21
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	115
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	104
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	62
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	23
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	353
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	79	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	18
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	291	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	59
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	286	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	70
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	1390	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	367
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	55
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	188
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	176
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	95	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	17
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	510	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	113
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	113	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	26
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	78
+MAD	Madison	49893	08/18/2026	2026 Primary Election	2	Madison County Ag. Extension Office	391	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	2
+MAD	Madison	49893	08/18/2026	2026 Primary Election	3	Greenville American Legion	858	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	4	Sirmans Vol. Fire Dept.	432	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	74
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	46
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	40
+MAD	Madison	49893	08/18/2026	2026 Primary Election	9	Sirmans Vol. Fire Dept.	117	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	4
+MAD	Madison	49893	08/18/2026	2026 Primary Election	10	Madison County Annex Board Room	1365	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	13
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	10
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	County Commissioner	 District 1	380011	Chris O'Brian	REP	118288255	91762	315
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	County Commissioner	 District 1	380011	Daniel Lee Plain	REP	105271002	91714	244
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	1034	0	0	County Commissioner	 District 1	380011	Gregory O. Vickers	REP	114692242	92128	340
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	County Commissioner	 District 1	380011	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	County Commissioner	 District 1	380011	UnderVotes	 	0	902	61
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	County Commissioner	 District 2	380021	Will Oberschlake	REP	108385189	91716	30
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	County Commissioner	 District 2	380021	Will Oberschlake	REP	108385189	91716	160
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	County Commissioner	 District 2	380021	Will Oberschlake	REP	108385189	91716	93
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	County Commissioner	 District 2	380021	Tyler Shadrick	REP	122973006	91744	40
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	County Commissioner	 District 2	380021	Tyler Shadrick	REP	122973006	91744	204
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	County Commissioner	 District 2	380021	Tyler Shadrick	REP	122973006	91744	234
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	175	0	0	County Commissioner	 District 2	380021	Wayne Vickers	REP	105269178	91500	38
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	663	0	0	County Commissioner	 District 2	380021	Wayne Vickers	REP	105269178	91500	104
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	604	0	0	County Commissioner	 District 2	380021	Wayne Vickers	REP	105269178	91500	128
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	6	Cherry Lake Methodist Church	272	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	9
+MAD	Madison	49893	08/18/2026	2026 Primary Election	7	Cherry Lake Methodist Church	1064	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	11
+MAD	Madison	49893	08/18/2026	2026 Primary Election	8	Pinetta Vol Fire Dept	1022	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	14
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	264	School Board	 District 1	610001	Katie Knight	NOP	105280390	91494	576
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	264	School Board	 District 1	610001	Byron Poore	NOP	111183609	92124	345
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	1	Madison County Ag. Extension Office	2127	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	39
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	306	School Board	 District 5	610005	Donnell L. Davis	NOP	105274801	92121	124
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	23	School Board	 District 5	610005	Donnell L. Davis	NOP	105274801	92121	51
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	306	School Board	 District 5	610005	Mike Maurice	NOP	105274368	91497	383
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	23	School Board	 District 5	610005	Mike Maurice	NOP	105274368	91497	25
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	306	School Board	 District 5	610005	Jonathan L Mazzella	NOP	129138637	92186	239
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	23	School Board	 District 5	610005	Jonathan L Mazzella	NOP	129138637	92186	39
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+MAD	Madison	49893	08/18/2026	2026 Primary Election	5	Lee City Hall	2082	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	46
+MAD	Madison	49893	08/18/2026	2026 Primary Election	11	Madison County Annex Board Room	261	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	1

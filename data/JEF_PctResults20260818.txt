@@ -1,0 +1,1214 @@
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	129
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	112
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	51
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	192
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	94
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	100
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	132
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	181
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	220
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	129
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	211
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	154
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	46
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	165
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	60
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	32
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	42
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	74
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	231
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	116
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	134
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	128
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	66
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	83
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	80
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	79
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	40
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	40
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	23
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	30
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	39
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	34
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	26
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	60
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	79
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	56
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	44
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	33
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	28
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	26
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	38
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	50
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	66
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	36
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	40
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	56
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	55
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	76
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	33
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	60
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	46
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	50
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	26
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	29
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	42
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	32
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	35
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	41
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	65
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	39
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	52
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	41
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	43
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	23
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	25
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	33
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	38
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	28
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	27
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	66
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	25
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	39
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	34
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	23
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	32
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	39
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	78
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	47
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	50
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	61
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	38
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	46
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	55
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	45
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	40
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	44
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	98
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	57
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	56
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	77
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	71
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	50
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	36
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	34
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	25
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	25
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Jay Collins	REP	0	89690	65
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Jay Collins	REP	0	89690	47
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Jay Collins	REP	0	89690	29
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Jay Collins	REP	0	89690	70
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Jay Collins	REP	0	89690	43
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Jay Collins	REP	0	89690	42
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Jay Collins	REP	0	89690	73
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Jay Collins	REP	0	89690	92
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Jay Collins	REP	0	89690	94
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Jay Collins	REP	0	89690	69
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Jay Collins	REP	0	89690	95
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Jay Collins	REP	0	89690	66
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Jay Collins	REP	0	89690	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Jay Collins	REP	0	89690	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Jay Collins	REP	0	89690	65
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Jay Collins	REP	0	89690	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	59
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	35
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	76
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	32
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	33
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	66
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	82
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	39
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	57
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	54
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	29
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	59
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	32
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	26
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	27
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	38
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	33
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	34
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	23
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	32
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	27
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	56
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	37
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	34
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	80
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	152
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	85
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	127
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	125
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	113
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	118
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	87
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	75
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	48
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Governor	 	160002	OverVotes	 	0	901	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Governor	 	160002	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	74
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	34
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	65
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	42
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	50
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	56
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	71
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	93
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	51
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	97
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	79
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	65
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	87
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	86
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	35
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	140
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	58
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	55
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	89
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	113
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	141
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	95
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	120
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	86
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	35
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	112
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	30
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	47
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	40
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	104
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	54
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	52
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	74
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	58
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	49
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	51
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	34
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	30
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	40
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	38
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	68
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	149
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	80
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	102
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	110
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	80
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	85
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	68
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	62
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	38
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	113
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	101
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	39
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	188
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	78
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	80
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	118
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	165
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	193
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	103
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	179
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	125
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	42
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	135
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	51
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	27
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	26
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	27
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	37
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	39
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	47
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	49
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	48
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	366	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	52
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	46
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	60	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	56
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	25
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	33
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	67
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	155
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	75
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	95
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	112
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	82
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	76
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	73
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	48
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	35
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	189	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	111	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	130	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	250	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	39
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	588	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	98
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	311	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	60
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	356	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	62
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	375	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	72
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	261	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	58
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	309	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	56
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	284	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	42
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	272	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	44
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	41	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	103	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	169	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	32
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	44	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	83
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	51
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	110
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	61
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	45
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	77
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	102
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	122
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	69
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	65
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	State Representative	 District 9	260091	Jibri Knight	REP	105117428	90559	77
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	332	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	72
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	207	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	60
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	126	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	32
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	452	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	82
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	237	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	41
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	252	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	57
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	352	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	77
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	455	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	82
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	485	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	108
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	429	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	74
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	459	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	68
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	108	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	29
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	40	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	369	0	0	State Representative	 District 9	260091	Tracy Robinson	REP	105280606	90431	93
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	State Representative	 District 9	260091	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	6
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	28
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	4
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	30
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	14
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	State Representative	 District 9	260091	UnderVotes	 	0	902	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	111	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	100
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	46	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	41
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	37	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	35
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	111	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	97
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	124	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	167
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	78	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	99
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	95	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	127
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	155	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	127
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	110	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	124
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	140	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	126
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	141	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	106
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	92	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	86
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	20	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	13
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	27	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	22
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	88	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	67
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	12	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	30
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	111	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	162
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	46	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	132
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	37	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	71
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	111	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	237
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	124	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	216
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	78	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	153
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	95	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	190
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	155	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	262
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	110	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	275
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	140	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	174
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	141	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	241
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	92	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	191
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	20	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	49
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	27	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	43
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	88	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	180
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	12	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	29
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	23
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	111	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	93
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	46	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	46
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	37	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	31
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	111	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	105
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	124	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	233
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	78	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	120
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	95	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	153
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	155	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	159
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	110	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	107
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	140	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	124
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	141	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	112
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	92	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	97
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	20	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	27	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	40
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	88	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	61
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	12	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	26
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	111	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	171
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	46	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	131
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	37	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	75
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	111	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	230
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	124	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	138
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	78	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	133
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	95	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	162
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	155	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	222
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	110	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	290
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	140	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	175
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	141	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	237
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	92	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	178
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	20	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	42
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	27	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	25
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	88	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	192
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	12	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	24
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	01	New Bethel Ame Church	632	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	9
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	02	St Margaret's Catholic Church	364	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	12
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	03	Central Baptist	293	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	04	Church of The Nazarene	813	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	16
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	23
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	37
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	09	Supt. of Schools Board Room	856	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	20
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	10	Lloyd Baptist Church	878	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	19
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	11	Waukeenah Church(Methodist)	884	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	12	Wacissa Volunteer Fire Dept	730	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	21
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	13	Ebenezer Baptist Church	169	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	7
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	2
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	15	Lloyd Woman's Club	626	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	18
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	16	Lamont Baptist Church	116	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	124	School Board	 District 2	610002	Jamia Bradley	NOP	104743193	90272	203
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	78	School Board	 District 2	610002	Jamia Bradley	NOP	104743193	90272	100
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	124	School Board	 District 2	610002	Donnie Burdick	NOP	129417850	90274	113
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	78	School Board	 District 2	610002	Donnie Burdick	NOP	129417850	90274	111
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	124	School Board	 District 2	610002	Miranda Gillyard Gilley	NOP	104741364	90276	68
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	78	School Board	 District 2	610002	Miranda Gillyard Gilley	NOP	104741364	90276	44
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	05	Monticello Opera House	949	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	10
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	06	The Masonic Lodge	641	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	8
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	95	School Board	 District 3	610003	Shirley Alexander Wasington	NOP	104739548	90280	155
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	155	School Board	 District 3	610003	Shirley Alexander Wasington	NOP	104739548	90280	152
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	27	School Board	 District 3	610003	Shirley Alexander Wasington	NOP	104739548	90280	17
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	95	School Board	 District 3	610003	Brenda Bentley Wirick	NOP	104747619	90281	165
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	155	School Board	 District 3	610003	Brenda Bentley Wirick	NOP	104747619	90281	255
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	27	School Board	 District 3	610003	Brenda Bentley Wirick	NOP	104747619	90281	15
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	07	Macedonia Church	803	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	3
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	08	Old J.C.H.S. Auditorium	985	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	11
+JEF	Jefferson	49893	08/18/2026	2026 Primary Election	14	Mt. Morilla Baptist Church	170	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	0

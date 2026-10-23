@@ -1,0 +1,772 @@
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	17
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	40
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	81
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	82
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	42
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	52
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	54
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	41
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	95
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	114
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	55
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	44
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	169
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	37
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	123
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	303
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	425
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	547
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	272
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	267
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	328
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	244
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	504
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	523
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	304
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	276
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	772
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	261
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	14
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	17
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	14
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	22
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	24
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	43
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	17
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	20
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	33
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	222
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	80
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	50
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	63
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	40
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	14
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	26
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	73
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	53
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	59
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	27
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	22
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	81
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	35
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	57
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	23
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	50
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	51
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	27
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	29
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	34
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	32
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	64
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	55
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	24
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	23
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	81
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	22
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	41
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	17
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	18
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	15
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	18
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	17
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	25
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	84
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	39
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	27
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	44
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	21
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	17
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	32
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	31
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	34
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	15
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	50
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	19
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	39
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	12
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	15
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	13
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	12
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	18
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	33
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	105
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	33
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	38
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	43
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	27
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	12
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	42
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	46
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	49
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	21
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	20
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	48
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	23
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	19
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	15
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Jay Collins	REP	0	89690	44
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Jay Collins	REP	0	89690	159
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Jay Collins	REP	0	89690	190
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Jay Collins	REP	0	89690	252
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Jay Collins	REP	0	89690	116
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Jay Collins	REP	0	89690	111
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Jay Collins	REP	0	89690	155
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Jay Collins	REP	0	89690	118
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Jay Collins	REP	0	89690	220
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Jay Collins	REP	0	89690	204
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Jay Collins	REP	0	89690	157
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Jay Collins	REP	0	89690	129
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Jay Collins	REP	0	89690	317
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Jay Collins	REP	0	89690	97
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	48
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	72
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	126
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	161
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	76
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	89
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	120
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	76
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	211
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	182
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	77
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	80
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	221
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	85
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	18
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	30
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	56
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	71
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	46
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	35
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	40
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	22
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	44
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	86
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	46
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	35
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	102
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	38
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	29
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	36
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	55
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	84
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	46
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	21
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	30
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	40
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	65
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	54
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	29
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	38
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	74
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	48
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	12
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	57
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	89
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	83
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	44
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	77
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	55
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	38
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	89
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	134
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	59
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	54
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	292
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	40
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Governor	 	160001	OverVotes	 	0	901	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Governor	 	160001	UnderVotes	 	0	902	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	27
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	13
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	13
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	23
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	13
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	12
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	32
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	25
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	14
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	135
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	73
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	55
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	81
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	41
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	32
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	38
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	44
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	63
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	66
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	30
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	27
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	93
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	37
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	38
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	13
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	13
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	13
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	30
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Governor	 	160002	OverVotes	 	0	901	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Governor	 	160002	UnderVotes	 	0	902	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Governor	 	160002	UnderVotes	 	0	902	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	62
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	166
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	235
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	250
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	125
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	186
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	205
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	131
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	301
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	379
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	193
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	155
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	518
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	133
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	86
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	184
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	264
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	372
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	189
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	128
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	184
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	160
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	291
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	267
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	176
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	168
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	437
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	168
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	38
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	35
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	22
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	23
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	12
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	56
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	31
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	19
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	71
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	161
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	45
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	51
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	45
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	28
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	15
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	23
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	45
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	35
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	48
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	20
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	56
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	27
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	111
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	55
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	49
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	66
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	39
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	29
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	36
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	61
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	81
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	62
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	35
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	25
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	100
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	28
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	16
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	15
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	94
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	236
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	334
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	464
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	205
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	187
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	268
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	181
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	430
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	395
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	225
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	216
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	600
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	207
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	537	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	58
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	1023	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	120
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	1436	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	185
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	1608	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	183
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	922	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	123
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	860	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	139
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	1196	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	131
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	878	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	113
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	1680	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	193
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	1706	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	263
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	1141	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	148
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	875	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	121
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	2472	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	400
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	815	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	100
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	18
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	11
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	25
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	19
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	26
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	141
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	57
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	46
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	54
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	30
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	17
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	40
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	57
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	67
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	59
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	28
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	13
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	68
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	33
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	127
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	332	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	40
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	352	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	53
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	436	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	52
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	296	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	34
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	197	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	26
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	273	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	20
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	48
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	385	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	47
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	332	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	51
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	249	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	22
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	229	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	30
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	505	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	83
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	230	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	22
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	20
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	02	L.O. Church of God	1615	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	04	Coliseum	2367	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	05	Coliseum	1403	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	07	Mt. Gilead Baptist Church	1832	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	11	Mt. Beulah Baptist Church	1720	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	12	Wellborn Masonic Lodge	1303	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	20
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	14	Pinegrove Methodist Church	1226	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	County Commissioner	 District 2	380022	Stefan Blue	DEM	108348389	91846	146
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	County Commissioner	 District 2	380022	Stefan Blue	DEM	108348389	91846	42
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	County Commissioner	 District 2	380022	Cynthia D. Robinson	DEM	128802533	91842	60
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	County Commissioner	 District 2	380022	Cynthia D. Robinson	DEM	128802533	91842	26
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	864	0	County Commissioner	 District 2	380022	Billy W. White Sr.	DEM	102904369	91840	79
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	409	0	County Commissioner	 District 2	380022	Billy W. White Sr.	DEM	102904369	91840	39
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	County Commissioner	 District 2	380022	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	County Commissioner	 District 2	380022	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	01	John Hale Park	1655	0	0	0	County Commissioner	 District 2	380022	UnderVotes	 	0	902	3
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	08	L.O. Church of God	1533	0	0	0	County Commissioner	 District 2	380022	UnderVotes	 	0	902	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	329	School Board	 District 3	610003	Clifford Bean	NOP	104751555	91852	216
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	214	School Board	 District 3	610003	Clifford Bean	NOP	104751555	91852	144
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	445	School Board	 District 3	610003	Clifford Bean	NOP	104751555	91852	261
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	329	School Board	 District 3	610003	Malcolm Hines	NOP	108355067	91853	416
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	214	School Board	 District 3	610003	Malcolm Hines	NOP	108355067	91853	223
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	445	School Board	 District 3	610003	Malcolm Hines	NOP	108355067	91853	478
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	03	Coliseum	2117	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	42
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	06	Luraville Com. Center	1271	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	32
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	09	Jo Kennon Library	2510	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	67
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	481	School Board	 District 5	610005	Aaron Bass	NOP	123344546	91855	424
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	620	School Board	 District 5	610005	Aaron Bass	NOP	123344546	91855	816
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	481	School Board	 District 5	610005	Ronald White	NOP	108346337	91856	384
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	620	School Board	 District 5	610005	Ronald White	NOP	108346337	91856	419
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	1
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	10	McAlpin Com. Center -	2519	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	28
+SUW	Suwannee	49893	08/18/2026	2026 Primary Election	13	Hatch Park Com. Center	3597	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	31

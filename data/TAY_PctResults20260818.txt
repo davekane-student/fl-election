@@ -1,0 +1,902 @@
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	24
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	49
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	39
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	54
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	20
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	56
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	154
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	259
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	177
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	35
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	185
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	114
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	355
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	116
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	101
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	113
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	97
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	114
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	91
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	391
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	55
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	42
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	24
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	186
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	62
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	34
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	32
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	20
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	30
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	28
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	30
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	41
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	43
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	85
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	61
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	20
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	20
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	23
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	51
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	37
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	84
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	40
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	32
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	23
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	97
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	27
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	29
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	22
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	84
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	34
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	39
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	65
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	30
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	27
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	24
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	44
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	23
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	37
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	20
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	48
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	40
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	31
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	63
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	57
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	52
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	84
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	30
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	35
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	25
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	30
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	117
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	31
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	56
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	49
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	70
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	28
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	28
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	27
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	25
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	122
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	22
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	25
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	81
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	37
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	35
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	20
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	105
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	30
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Jay Collins	REP	0	89690	69
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Jay Collins	REP	0	89690	125
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Jay Collins	REP	0	89690	64
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Jay Collins	REP	0	89690	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Jay Collins	REP	0	89690	93
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Jay Collins	REP	0	89690	37
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Jay Collins	REP	0	89690	157
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Jay Collins	REP	0	89690	60
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Jay Collins	REP	0	89690	55
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Jay Collins	REP	0	89690	51
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Jay Collins	REP	0	89690	41
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Jay Collins	REP	0	89690	52
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Jay Collins	REP	0	89690	45
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Jay Collins	REP	0	89690	178
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	45
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	70
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	68
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	78
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	37
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	129
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	46
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	22
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	35
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	33
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	42
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	29
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	112
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	22
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	31
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	42
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	23
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	45
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	25
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	36
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	40
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	44
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	24
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	65
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	35
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	29
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	56
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	25
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	81
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Governor	 	160001	UnderVotes	 	0	902	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	39
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	49
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	29
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	42
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	22
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	115
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	45
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Governor	 	160002	OverVotes	 	0	901	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Governor	 	160002	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Governor	 	160002	UnderVotes	 	0	902	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	84
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	158
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	122
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	21
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	122
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	61
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	216
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	69
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	52
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	68
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	49
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	67
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	46
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	228
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	96
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	155
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	77
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	103
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	69
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	188
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	75
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	66
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	65
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	55
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	66
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	66
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	213
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	20
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	37
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	35
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	32
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	20
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	27
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	88
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	40
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	55
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	18
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	16
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	46
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	17
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	128
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	44
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	125
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	205
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	118
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	26
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	146
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	87
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	298
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	102
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	76
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	99
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	79
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	82
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	80
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	300
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	64
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	1103	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	120
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	546	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	88
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	100	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	764	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	91
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	51
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	130
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	406	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	49
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	305	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	43
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	384	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	36
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	359	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	32
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	353	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	53
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	375	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	33
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	1231	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	161
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	13
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	48
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	10
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	37
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	23
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	128
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	37
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	275	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	38
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	250	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	19
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	96	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	6
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	22	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	114	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	12
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	58	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	240	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	34
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	159	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	22
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	104	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	115	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	66	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	179	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	15
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	872	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	88
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	293	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	42
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	2	2 Forest Capital Hall-Pct 2	1353	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	3	3 Taylor Coastal Water & Sewer Dist	642	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	4	4 Salem Baptist Church	122	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	5	5 Steinhatchee Comm Cntr	878	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	14
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	8	8 New Home Baptist Church	565	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	9	9 Forest Capital Hall-Pct 9	409	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	10	10 Lakeside Bapt Church	499	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	11	11 Athena Bapt Church	425	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	13	13 Jerkins Bldg	1247	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	11
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	County Commissioner	 District 4	380041	Pam Feagle	REP	108375640	91579	151
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	County Commissioner	 District 4	380041	Pam Feagle	REP	108375640	91579	80
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	County Commissioner	 District 4	380041	Pam Feagle	REP	108375640	91579	232
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	385	0	0	County Commissioner	 District 4	380041	Wendy M. Slaughter	REP	108379175	91709	151
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	238	0	0	County Commissioner	 District 4	380041	Wendy M. Slaughter	REP	108379175	91709	85
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	985	0	0	County Commissioner	 District 4	380041	Wendy M. Slaughter	REP	108379175	91709	303
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	1	1 1st United Methodist Ch	749	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	6	6 Shady Gr Community Center	330	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	2
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	7	7 Boyd Methodist Church	1357	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	72	School Board	 District 1	610001	Bonnie Sue Agner	NOP	108375700	91507	99
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	162	School Board	 District 1	610001	Bonnie Sue Agner	NOP	108375700	91507	311
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	72	School Board	 District 1	610001	Liddie Ann Davis	NOP	108376288	91511	87
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	162	School Board	 District 1	610001	Liddie Ann Davis	NOP	108376288	91511	256
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	12	12 Perry Shrine Bldg	604	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	5
+TAY	Taylor	49893	08/18/2026	2026 Primary Election	14	14 Mt. Carmel Bapt Church	1686	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	10

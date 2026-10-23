@@ -1,0 +1,765 @@
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	68
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	59
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	40
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	42
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	17
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	26
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	32
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	25
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	52
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	404
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	42
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	412
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	38
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	283
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	101
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	237
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	184
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	221
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	243
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	237
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	418
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	195
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	16
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	9
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	37
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	27
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	24
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	41
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	65
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	22
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	74
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	13
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	112
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	65
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	13
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	23
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	66
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	17
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	37
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	13
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	12
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	53
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	9
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	9
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	42
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	49
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	23
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	17
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	40
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	9
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	33
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	38
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	13
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	48
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	39
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	44
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	13
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Jay Collins	REP	0	89690	114
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Jay Collins	REP	0	89690	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Jay Collins	REP	0	89690	151
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Jay Collins	REP	0	89690	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Jay Collins	REP	0	89690	75
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Jay Collins	REP	0	89690	27
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Jay Collins	REP	0	89690	80
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Jay Collins	REP	0	89690	72
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Jay Collins	REP	0	89690	83
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Jay Collins	REP	0	89690	86
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Jay Collins	REP	0	89690	67
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Jay Collins	REP	0	89690	162
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Jay Collins	REP	0	89690	74
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	123
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	17
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	142
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	109
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	54
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	115
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	69
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	87
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	104
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	103
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	183
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	62
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	48
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	54
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	48
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	37
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	28
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	35
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	58
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	126
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	9
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	67
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	28
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	24
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	35
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	30
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	32
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	63
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	23
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	88
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	85
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	80
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	17
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	32
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	48
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	43
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	41
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	35
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	41
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Governor	 	160001	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Governor	 	160001	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	9
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	12
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	24
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	28
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	37
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	41
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	77
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	57
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	13
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	17
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	29
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	70
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	26
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Governor	 	160002	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	193
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	31
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	213
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	36
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	139
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	49
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	113
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	81
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	108
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	101
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	96
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	154
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	88
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	255
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	24
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	249
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	175
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	71
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	160
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	130
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	143
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	166
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	155
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	316
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	115
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	66
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	55
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	29
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	27
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	27
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	38
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	42
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	22
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	9
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	35
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	10
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	29
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	12
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	43
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	38
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	40
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	40
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	38
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	28
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	55
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	84
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	63
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	13
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	17
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	22
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	75
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	334
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	25
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	354
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	30
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	228
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	87
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	202
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	161
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	180
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	187
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	184
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	331
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	161
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	151
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	38
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	141
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	27
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	102
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	46
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	80
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	53
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	80
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	88
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	89
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	151
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	56
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	29
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	22
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	13
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	16
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	30
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	29
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	46
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	25
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	54
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	17
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	85
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	73
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	12
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	22
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	70
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	23
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	230	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	20
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	282	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	26
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	207	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	12
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	359	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	28
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	161	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	568	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	39
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	426	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	26
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	170	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	14
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	190	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	12
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	131	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	12
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	226	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	371	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	44
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	138	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	16
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	214
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	232
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	25
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	148
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	65
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	142
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	107
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	112
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	114
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	119
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	146
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	109
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	267
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	242	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	38
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	256
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	235	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	33
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	1018	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	177
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	529	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	68
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	973	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	151
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	688	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	108
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	968	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	143
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	161
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	155
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	347
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	531	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	105
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	1
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	33
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	2	Precinct 1 and 2	616	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	6
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	29
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	4	Precinct 4	699	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	2
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	5	Precinct 5	1339	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	18
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	6	Precinct 6	1310	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	7	Precinct 7 and 8	1702	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	7
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	8	Precinct 7 and 8	1029	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	5
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	9	Precinct 9	1360	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	19
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	13	Precinct 13	775	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	11
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	County Commissioner	 District 2	380021	Jason Bennett	REP	100737823	91574	189
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	County Commissioner	 District 2	380021	Jason Bennett	REP	100737823	91574	238
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	County Commissioner	 District 2	380021	Jeff Clemons	REP	100748346	91578	139
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	County Commissioner	 District 2	380021	Jeff Clemons	REP	100748346	91578	174
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	County Commissioner	 District 2	380021	Jimmy Smith	REP	100586751	91568	21
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	County Commissioner	 District 2	380021	Jimmy Smith	REP	100586751	91568	15
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	1284	0	0	County Commissioner	 District 2	380021	Brad Thomas	REP	100753352	91572	157
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	1244	0	0	County Commissioner	 District 2	380021	Brad Thomas	REP	100753352	91572	86
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	1	Precinct 1 and 2	1716	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	8
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	3	Precinct 3	1676	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	4
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	County Commissioner	 District 4	380041	Tom Germano	REP	103480927	92175	181
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	County Commissioner	 District 4	380041	Tom Germano	REP	103480927	92175	136
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	County Commissioner	 District 4	380041	Tom Germano	REP	103480927	92175	479
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	863	0	0	County Commissioner	 District 4	380041	Paul Huntley	REP	102934550	91838	110
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	806	0	0	County Commissioner	 District 4	380041	Paul Huntley	REP	102934550	91838	178
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	1329	0	0	County Commissioner	 District 4	380041	Paul Huntley	REP	102934550	91838	122
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	10	Precinct 10	1190	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	36
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	11	Precinct 11	1266	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	32
+BRA	Bradford	49893	08/18/2026	2026 Primary Election	12	Precinct 12	2042	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	51

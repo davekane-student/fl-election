@@ -1,0 +1,456 @@
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	27
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	43
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	17
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	35
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	23
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	87
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	72
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	69
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	148
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	338
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	53
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	152
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	108
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	364
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	16
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	14
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	16
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	14
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	23
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	117
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	125
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	72
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	16
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	60
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	40
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	36
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	34
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	29
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	35
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	38
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	22
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	36
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	18
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	20
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	7
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	8
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	31
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	26
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	18
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	20
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	9
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	37
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	28
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	24
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	19
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	21
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	18
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	22
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	13
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	13
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	13
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	7
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	14
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	15
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	59
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	80
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	51
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	8
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	43
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	25
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	26
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	25
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	22
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Jay Collins	REP	0	89690	36
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Jay Collins	REP	0	89690	33
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Jay Collins	REP	0	89690	86
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Jay Collins	REP	0	89690	192
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Jay Collins	REP	0	89690	34
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Jay Collins	REP	0	89690	94
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Jay Collins	REP	0	89690	49
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Jay Collins	REP	0	89690	207
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	24
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	24
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	34
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	86
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	21
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	41
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	45
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	121
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	7
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	34
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	14
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	54
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	15
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	34
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	24
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	35
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	7
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	30
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	43
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	18
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	22
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	52
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Governor	 	160001	UnderVotes	 	0	902	7
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Governor	 	160001	UnderVotes	 	0	902	9
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	24
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	18
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	16
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	26
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	21
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	19
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	14
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	15
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	85
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	78
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	61
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	55
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	34
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	40
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	12
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	12
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Governor	 	160002	UnderVotes	 	0	902	22
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Governor	 	160002	UnderVotes	 	0	902	18
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Governor	 	160002	UnderVotes	 	0	902	8
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Governor	 	160002	UnderVotes	 	0	902	8
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	43
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	33
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	105
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	204
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	37
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	107
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	65
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	258
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	35
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	43
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	70
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	174
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	33
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	79
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	63
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	200
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	21
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	30
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	26
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	14
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	80
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	60
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	49
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	9
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	37
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	23
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	40
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	17
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	72
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	90
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	56
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	12
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	57
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	39
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	29
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	22
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	23
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	59
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	50
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	120
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	245
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	50
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	127
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	89
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	325
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	226	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	22
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	273	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	29
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	61
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	836	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	147
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	20
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	64
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	437	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	43
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	142
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	15
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	16
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	17
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	15
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	84
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	81
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	48
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	8
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	44
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	33
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	34
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	189	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	18
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	591	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	65
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	345	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	70
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	370	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	57
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	54	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	14
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	243	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	51
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	259	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	29
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	245	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	35
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	1	Pct 1 Jennings City Hall	502	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	2	Pct 2 Jasper Courthouse	1027	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	21
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	23
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	7	Pct 7 Bellville VFD	799	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	11
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	County Commissioner	 District 2	380021	Josh Altman	REP	104300693	90673	50
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	County Commissioner	 District 2	380021	Josh Altman	REP	104300693	90673	332
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	150	0	0	County Commissioner	 District 2	380021	Robby Roberson	REP	104306729	90666	58
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	1014	0	0	County Commissioner	 District 2	380021	Robby Roberson	REP	104306729	90666	248
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	5	Pct 5 Bright Pond	254	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	2
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	8	Pct 8 Cross Roads VFD	1491	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	12
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	County Commissioner	 District 4	380041	Travis Erixton	REP	118193049	90661	108
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	County Commissioner	 District 4	380041	Travis Erixton	REP	118193049	90661	86
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	390	0	0	County Commissioner	 District 4	380041	Derek Ratliff	REP	104300983	90674	83
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	408	0	0	County Commissioner	 District 4	380041	Derek Ratliff	REP	104300983	90674	106
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	5
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	99	School Board	 District 4	610004	Jamie Bowen Sr.	NOP	104305127	91668	30
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	98	School Board	 District 4	610004	Jamie Bowen Sr.	NOP	104305127	91668	50
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	99	School Board	 District 4	610004	Kizzy L. Burch	NOP	104299654	92390	114
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	98	School Board	 District 4	610004	Kizzy L. Burch	NOP	104299654	92390	72
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	99	School Board	 District 4	610004	Larry Ogburn Sr.	NOP	104305697	90677	141
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	98	School Board	 District 4	610004	Larry Ogburn Sr.	NOP	104305697	90677	100
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	99	School Board	 District 4	610004	Timothea Scott	NOP	105198618	92075	93
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	98	School Board	 District 4	610004	Timothea Scott	NOP	105198618	92075	89
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	School Board	 District 4	610004	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	3	Pct 3 White Springs Library	834	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	7
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	6	Pct 6 Genoa VFD	749	0	0	0	School Board	 District 4	610004	UnderVotes	 	0	902	4
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	199	School Board	 District 5	610005	Menieca M. Kennedy	NOP	104306197	90664	337
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	199	School Board	 District 5	610005	Sammy McCoy	NOP	104306421	90663	221
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+HAM	Hamilton	49893	08/18/2026	2026 Primary Election	4	Pct 4 Jasper Civic Center	1405	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	3

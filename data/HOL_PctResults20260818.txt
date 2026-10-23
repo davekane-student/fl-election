@@ -1,0 +1,624 @@
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	45
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	55
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	58
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	75
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	34
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	86
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	79
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	46
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	254
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	303
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	245
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	405
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	122
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	624
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	433
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	261
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	17
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	33
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	24
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	27
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	29
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	13
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	31
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	35
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	47
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	31
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	25
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	23
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	18
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	14
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	13
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	50
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	82
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	62
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	92
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	38
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	96
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	76
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	39
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	14
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	22
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	36
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	37
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	31
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	45
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	56
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	41
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	30
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	60
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	116
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	49
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	142
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	36
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	209
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	141
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	111
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	43
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	45
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	47
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	82
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	29
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	115
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	71
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	43
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	95
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	81
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	87
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	96
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	47
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	230
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	165
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	74
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	22
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	27
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	18
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	23
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	19
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	17
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	19
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	19
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	19
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	24
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	30
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	13
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	19
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	23
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	30
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	17
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	24
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	14
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	13
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Jay Collins	REP	0	89690	150
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Jay Collins	REP	0	89690	152
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Jay Collins	REP	0	89690	111
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Jay Collins	REP	0	89690	220
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Jay Collins	REP	0	89690	62
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Jay Collins	REP	0	89690	337
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Jay Collins	REP	0	89690	239
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Jay Collins	REP	0	89690	165
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	86
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	118
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	90
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	115
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	39
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	162
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	124
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	59
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	41
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	41
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	47
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	77
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	49
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	31
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	23
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	39
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	30
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	44
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	68
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	46
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	31
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	44
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	34
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	73
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	25
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	85
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	49
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	33
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Governor	 	160001	UnderVotes	 	0	902	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Governor	 	160001	UnderVotes	 	0	902	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Governor	 	160001	UnderVotes	 	0	902	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Governor	 	160001	UnderVotes	 	0	902	13
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Governor	 	160001	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	29
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	25
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	33
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	39
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Governor	 	160002	UnderVotes	 	0	902	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Governor	 	160002	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Governor	 	160002	UnderVotes	 	0	902	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Governor	 	160002	UnderVotes	 	0	902	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Governor	 	160002	UnderVotes	 	0	902	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Governor	 	160002	UnderVotes	 	0	902	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	162
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	197
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	172
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	268
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	92
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	313
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	236
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	139
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	150
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	177
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	123
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	217
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	72
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	408
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	275
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	168
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	18
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	47
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	40
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	42
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	50
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	29
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	24
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	25
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	31
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	33
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	45
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	28
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	217
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	244
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	192
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	327
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	99
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	513
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	370
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	215
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	106
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	147
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	118
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	171
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	69
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	231
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	147
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	98
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	30
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	29
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	27
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	23
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	19
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	22
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	23
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	27
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	34
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	159	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	19
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	149	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	28
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	154	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	31
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	214	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	74	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	277	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	32
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	251	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	30
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	208	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	30
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	14
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	13
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	County Commissioner	 District 2	380021	Rodney K. Bowers	REP	104588779	90219	87
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	County Commissioner	 District 2	380021	Rodney K. Bowers	REP	104588779	90219	196
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	County Commissioner	 District 2	380021	Rodney K. Bowers	REP	104588779	90219	109
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	County Commissioner	 District 2	380021	Rodney K. Bowers	REP	104588779	90219	157
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	County Commissioner	 District 2	380021	Rodney K. Bowers	REP	104588779	90219	55
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	County Commissioner	 District 2	380021	Rodney K. Bowers	REP	104588779	90219	306
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	County Commissioner	 District 2	380021	Rodney K. Bowers	REP	104588779	90219	184
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	County Commissioner	 District 2	380021	Rodney K. Bowers	REP	104588779	90219	130
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	County Commissioner	 District 2	380021	Charles W Ellenburg	REP	1045824238	90220	32
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	County Commissioner	 District 2	380021	Charles W Ellenburg	REP	1045824238	90220	46
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	County Commissioner	 District 2	380021	Charles W Ellenburg	REP	1045824238	90220	151
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	County Commissioner	 District 2	380021	Charles W Ellenburg	REP	1045824238	90220	171
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	County Commissioner	 District 2	380021	Charles W Ellenburg	REP	1045824238	90220	36
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	County Commissioner	 District 2	380021	Charles W Ellenburg	REP	1045824238	90220	198
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	County Commissioner	 District 2	380021	Charles W Ellenburg	REP	1045824238	90220	139
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	County Commissioner	 District 2	380021	Charles W Ellenburg	REP	1045824238	90220	83
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	County Commissioner	 District 2	380021	Joshua W Jackson	REP	104588827	90221	120
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	County Commissioner	 District 2	380021	Joshua W Jackson	REP	104588827	90221	102
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	County Commissioner	 District 2	380021	Joshua W Jackson	REP	104588827	90221	59
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	County Commissioner	 District 2	380021	Joshua W Jackson	REP	104588827	90221	80
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	County Commissioner	 District 2	380021	Joshua W Jackson	REP	104588827	90221	41
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	County Commissioner	 District 2	380021	Joshua W Jackson	REP	104588827	90221	128
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	County Commissioner	 District 2	380021	Joshua W Jackson	REP	104588827	90221	109
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	County Commissioner	 District 2	380021	Joshua W Jackson	REP	104588827	90221	67
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	County Commissioner	 District 2	380021	Brandon B Newsom	REP	104585600	90222	105
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	County Commissioner	 District 2	380021	Brandon B Newsom	REP	104585600	90222	89
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	County Commissioner	 District 2	380021	Brandon B Newsom	REP	104585600	90222	30
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	County Commissioner	 District 2	380021	Brandon B Newsom	REP	104585600	90222	26
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	County Commissioner	 District 2	380021	Brandon B Newsom	REP	104585600	90222	20
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	County Commissioner	 District 2	380021	Brandon B Newsom	REP	104585600	90222	71
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	County Commissioner	 District 2	380021	Brandon B Newsom	REP	104585600	90222	87
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	County Commissioner	 District 2	380021	Brandon B Newsom	REP	104585600	90222	45
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	County Commissioner	 District 2	380021	Dale J Sconiers	REP	104581648	90223	41
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	County Commissioner	 District 2	380021	Dale J Sconiers	REP	104581648	90223	55
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	County Commissioner	 District 2	380021	Dale J Sconiers	REP	104581648	90223	61
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	County Commissioner	 District 2	380021	Dale J Sconiers	REP	104581648	90223	163
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	County Commissioner	 District 2	380021	Dale J Sconiers	REP	104581648	90223	47
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	County Commissioner	 District 2	380021	Dale J Sconiers	REP	104581648	90223	154
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	County Commissioner	 District 2	380021	Dale J Sconiers	REP	104581648	90223	107
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	County Commissioner	 District 2	380021	Dale J Sconiers	REP	104581648	90223	59
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	1
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	3
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	14
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	6
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	14
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	5
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	County Commissioner	 District 4	380041	David Cunningham	REP	108689698	90675	116
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	County Commissioner	 District 4	380041	David Cunningham	REP	108689698	90675	88
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	County Commissioner	 District 4	380041	David Cunningham	REP	108689698	90675	78
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	County Commissioner	 District 4	380041	David Cunningham	REP	108689698	90675	92
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	County Commissioner	 District 4	380041	David Cunningham	REP	108689698	90675	38
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	County Commissioner	 District 4	380041	David Cunningham	REP	108689698	90675	158
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	County Commissioner	 District 4	380041	David Cunningham	REP	108689698	90675	176
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	County Commissioner	 District 4	380041	David Cunningham	REP	108689698	90675	82
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	856	0	0	County Commissioner	 District 4	380041	Randon K Tate	REP	123291791	90226	258
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	861	0	0	County Commissioner	 District 4	380041	Randon K Tate	REP	123291791	90226	378
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	713	0	0	County Commissioner	 District 4	380041	Randon K Tate	REP	123291791	90226	310
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	1216	0	0	County Commissioner	 District 4	380041	Randon K Tate	REP	123291791	90226	498
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	485	0	0	County Commissioner	 District 4	380041	Randon K Tate	REP	123291791	90226	152
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	1853	0	0	County Commissioner	 District 4	380041	Randon K Tate	REP	123291791	90226	693
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	1432	0	0	County Commissioner	 District 4	380041	Randon K Tate	REP	123291791	90226	438
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	955	0	0	County Commissioner	 District 4	380041	Randon K Tate	REP	123291791	90226	291
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	28
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	33
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	15
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	21
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	27
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	17
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	198	School Board	 District 1	690001	Jeffery K Amerson	NOP	104586368	90450	143
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	131	School Board	 District 1	690001	Jeffery K Amerson	NOP	104586368	90450	202
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	95	School Board	 District 1	690001	Jeffery K Amerson	NOP	104586368	90450	204
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	202	School Board	 District 1	690001	Jeffery K Amerson	NOP	104586368	90450	275
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	76	School Board	 District 1	690001	Jeffery K Amerson	NOP	104586368	90450	78
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	305	School Board	 District 1	690001	Jeffery K Amerson	NOP	104586368	90450	350
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	284	School Board	 District 1	690001	Jeffery K Amerson	NOP	104586368	90450	231
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	173	School Board	 District 1	690001	Jeffery K Amerson	NOP	104586368	90450	128
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	198	School Board	 District 1	690001	Milton E Wilsom	NOP	104581444	90451	231
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	131	School Board	 District 1	690001	Milton E Wilsom	NOP	104581444	90451	270
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	95	School Board	 District 1	690001	Milton E Wilsom	NOP	104581444	90451	172
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	202	School Board	 District 1	690001	Milton E Wilsom	NOP	104581444	90451	314
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	76	School Board	 District 1	690001	Milton E Wilsom	NOP	104581444	90451	116
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	305	School Board	 District 1	690001	Milton E Wilsom	NOP	104581444	90451	494
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	284	School Board	 District 1	690001	Milton E Wilsom	NOP	104581444	90451	397
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	173	School Board	 District 1	690001	Milton E Wilsom	NOP	104581444	90451	254
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	2
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	School Board	 District 1	690001	OverVotes	 	0	901	0
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	1	Ponce de Leon	1213	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	16
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	2	Pine Log	1141	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	22
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	3	New Hope	962	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	45
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	4	Bethlehem	1632	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	22
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	5	Gritney	635	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	6	Noma	2435	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	28
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	7	West Bonifay	1967	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	11
+HOL	Holmes	49893	08/18/2026	2026 Primary Election	8	East Bonifay	1336	0	0	0	School Board	 District 1	690001	UnderVotes	 	0	902	8

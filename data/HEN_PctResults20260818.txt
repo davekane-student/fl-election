@@ -1,0 +1,782 @@
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	17
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	120
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	68
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	29
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	66
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	75
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	36
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	105
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	666
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	418
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	71
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	146
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	474
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	80
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	272
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	109
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	60
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	32
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	22
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	47
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	31
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	22
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	41
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	298
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	156
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	98
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	32
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	44
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	142
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	36
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	69
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	115
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	63
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	26
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	53
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	64
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	31
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	8
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	46
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	317
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	172
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	29
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	64
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	202
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	43
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	111
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Representative in Congress	 District 22	140221	Casey Askar	REP	0	92109	47
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	114
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	63
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	37
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	62
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Representative in Congress	 District 22	140221	David Burck	REP	0	90645	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	24
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	105
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	54
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	30
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	50
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	60
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Representative in Congress	 District 22	140221	Michael Carbonara	REP	0	90525	23
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	26
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Representative in Congress	 District 22	140221	Richard Evans	REP	0	90934	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	68
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	46
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	28
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Representative in Congress	 District 22	140221	Terri Hasdorff	REP	0	91145	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	35
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	128
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	111
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	34
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	113
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	18
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	81
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Representative in Congress	 District 22	140221	Belinda Keiser	REP	0	90812	45
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	23
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	96
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	61
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	31
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	133
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	40
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Representative in Congress	 District 22	140221	Michael Thompson	REP	0	90852	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Representative in Congress	 District 22	140221	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	36
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	26
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	36
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Representative in Congress	 District 22	140221	UnderVotes	 	0	902	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	110
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	176
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	96
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	30
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	48
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	125
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Representative in Congress	 District 22	140222	Pia Dandiya	DEM	0	89301	33
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	253
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	90
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	60
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	28
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	46
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	78
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Representative in Congress	 District 22	140222	Kaysia Earley	DEM	0	91322	32
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Representative in Congress	 District 22	140222	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Representative in Congress	 District 22	140222	UnderVotes	 	0	902	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Jay Collins	REP	0	89690	30
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Jay Collins	REP	0	89690	172
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Jay Collins	REP	0	89690	121
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Jay Collins	REP	0	89690	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Jay Collins	REP	0	89690	17
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Jay Collins	REP	0	89690	54
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Jay Collins	REP	0	89690	108
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Jay Collins	REP	0	89690	27
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Jay Collins	REP	0	89690	86
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Jay Collins	REP	0	89690	32
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	67
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	404
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	241
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	43
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	85
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	312
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	45
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	172
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	76
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	29
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	113
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	67
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	26
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	92
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	63
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	28
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	8
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	56
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	33
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	24
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	8
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	23
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	97
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	66
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	24
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	35
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	34
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Governor	 	160001	OverVotes	 	0	901	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Governor	 	160001	UnderVotes	 	0	902	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Governor	 	160001	UnderVotes	 	0	902	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Governor	 	160001	UnderVotes	 	0	902	8
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Governor	 	160001	UnderVotes	 	0	902	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	49
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	28
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	29
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	32
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	34
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	31
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	8
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	18
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	18
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	78
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	64
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	30
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	53
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	143
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	116
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	69
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	27
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	47
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	74
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	18
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	24
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	34
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Governor	 	160002	OverVotes	 	0	901	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Governor	 	160002	OverVotes	 	0	901	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Governor	 	160002	OverVotes	 	0	901	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Governor	 	160002	UnderVotes	 	0	902	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Governor	 	160002	UnderVotes	 	0	902	8
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Governor	 	160002	UnderVotes	 	0	902	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Governor	 	160002	UnderVotes	 	0	902	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	77
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	428
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	237
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	39
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	104
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	238
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	58
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	231
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	105
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	68
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	389
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	260
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	48
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	81
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	304
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	42
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	154
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	57
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	75
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	55
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	68
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	27
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	24
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	170
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	98
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	57
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	28
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	42
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	71
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	26
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	193
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	168
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	102
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	17
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	31
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	46
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	129
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	41
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	16
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	102
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	563
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	325
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	65
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	134
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	447
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	72
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	216
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	93
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	49
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	291
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	208
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	26
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	69
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	132
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	34
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	177
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	78
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	9
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	38
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	31
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	183
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	171
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	115
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	37
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	41
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	18
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	151
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	51
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	1631	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	175
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	914	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	91
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	633	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	45
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	90	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	88	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	379	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	336	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	52
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	126	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	866	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	50
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	361	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	18
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	50
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	220
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	155
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	4
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	58
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	125
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	30
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	138
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	State Representative	 District 82	260821	Bill Poteet	REP	103140425	89206	74
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	624	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	99
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	2183	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	631
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	1702	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	368
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	81	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	17
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	230	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	87
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	730	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	135
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	443
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	415	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	69
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	241
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	State Representative	 District 82	260821	Liesa Priddy	REP	0	89380	91
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	State Representative	 District 82	260821	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	41
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	29
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	12
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	42
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	33
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	State Representative	 District 82	260821	UnderVotes	 	0	902	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	County Commissioner	 District 4	380041	Roly Gonzalez	REP	109574068	90528	111
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	County Commissioner	 District 4	380041	Roly Gonzalez	REP	109574068	90528	276
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	County Commissioner	 District 4	380041	Roly Gonzalez	REP	109574068	90528	39
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	1132	0	0	County Commissioner	 District 4	380041	Ramon Iglesias	REP	104336430	90036	649
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	1530	0	0	County Commissioner	 District 4	380041	Ramon Iglesias	REP	104336430	90036	413
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	791	0	0	County Commissioner	 District 4	380041	Ramon Iglesias	REP	104336430	90036	56
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	30
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	493	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	223
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	846	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	389
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	595	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	243
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	79	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	61	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	37
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	290	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	78
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	293	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	166
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	170	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	48
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	947	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	266
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	376	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	107
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	493	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	289
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	846	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	777
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	595	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	462
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	79	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	61	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	67
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	290	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	182
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	293	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	466
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	170	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	96
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	947	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	400
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	376	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	155
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	51
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	106
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	77
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	14
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	141
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	11
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	53
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	39
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	493	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	152
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	846	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	385
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	595	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	205
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	79	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	15
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	61	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	27
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	290	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	89
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	293	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	205
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	170	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	33
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	947	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	249
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	376	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	96
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	493	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	356
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	846	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	780
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	595	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	510
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	79	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	26
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	61	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	78
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	290	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	168
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	293	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	422
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	170	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	109
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	947	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	422
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	376	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	167
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	55
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	107
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	67
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	6
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	24
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	145
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	48
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	38
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	493	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	98
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	846	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	429
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	595	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	233
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	79	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	10
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	61	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	24
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	290	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	73
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	293	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	154
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	170	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	44
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	947	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	250
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	376	County Court Judge	 Group 1	600001	Jill Cabai	NOP	105183669	90033	76
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	493	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	298
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	846	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	665
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	595	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	431
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	79	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	61	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	66
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	290	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	170
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	293	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	505
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	170	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	85
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	947	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	306
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	376	County Court Judge	 Group 1	600001	Robert Ostrov	NOP	114213539	90040	144
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	493	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	147
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	846	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	151
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	595	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	97
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	79	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	13
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	61	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	21
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	290	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	31
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	293	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	83
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	170	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	947	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	141
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	376	County Court Judge	 Group 1	600001	Antoinette "Toni" Peck	NOP	115455837	90038	48
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	2
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	1	Janet Taylor Auditorium	2748	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	20
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	2	Carlson Method. Church	3943	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	27
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	3	LaBelle Civic Center	2930	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	19
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	4	Big Cypress Gymnasium	250	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	5
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	5	Felda Community Center	379	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	6	John Boy Auditorium	1399	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	7	Clewiston Youth Center	1761	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	31
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	8	Pioneer Fire Station	711	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	7
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	9	Church of the Good Shepherd	3343	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	22
+HEN	Hendry	49893	08/18/2026	2026 Primary Election	10	Montura Clubhouse	1528	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	32

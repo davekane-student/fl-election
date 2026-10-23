@@ -1,0 +1,46 @@
+---
+title: "2026 Florida Republican Primary for Governor"
+format: html
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+```{r}
+library(tidyverse)
+
+# Extract the county precinct text files from the zip archive if not already unzipped
+if (!dir.exists("data")) {
+  unzip("2026-pri-outputofficial.zip", exdir = "data")
+}
+
+# Read all 67 tab-delimited county files (no header row; disable quote parsing for precinct names)
+files <- list.files("data", pattern = "\\.txt$", full.names = TRUE)
+raw_results <- read_tsv(files, col_names = FALSE, quote = "", show_col_types = FALSE)
+
+# Filter to the Republican primary for Governor and sum votes by candidate
+gov_rep <- raw_results |>
+  filter(X12 == "Governor", X16 == "REP") |>
+  summarize(votes = sum(as.numeric(X19), na.rm = TRUE), .by = X15) |>
+  rename(candidate = X15)
+```
+
+In the 2026 Florida Republican primary for Governor, 11 candidates competed across all 67 counties, with Byron Donalds and Jay Collins receiving the largest share of the vote.
+
+```{r}
+gov_rep |>
+  # Order candidates from lowest to highest vote total for a readable horizontal bar chart
+  mutate(candidate = fct_reorder(candidate, votes)) |>
+  ggplot(aes(x = votes, y = candidate)) +
+  geom_col(fill = "#b22222") +
+  scale_x_continuous(labels = scales::label_comma()) +
+  labs(
+    title = "2026 Florida Republican Primary for Governor",
+    subtitle = "Official statewide vote totals by candidate",
+    x = "Total Votes",
+    y = NULL,
+    caption = "Source: Florida Department of State (2026 Primary Official Precinct Results)"
+  ) +
+  theme_minimal()
+```

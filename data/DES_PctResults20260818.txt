@@ -1,0 +1,945 @@
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	44
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	34
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	37
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	15
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	42
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	33
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	58
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	44
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	289
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	271
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	194
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	92
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	95
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	284
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	181
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	251
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	33
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	29
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	197
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	40
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	32
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	27
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	43
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	62
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	15
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	96
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	25
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	38
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	29
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	38
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	26
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	46
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	53
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	45
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	66
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	53
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	21
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	44
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	227
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	179
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	125
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	64
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	65
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	209
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	127
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	178
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	31
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Representative in Congress	 District 16	140161	Sydney Gruters	REP	0	90251	158
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	83
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	62
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	34
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	15
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	22
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	63
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	74
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Representative in Congress	 District 16	140161	Ed Pope	REP	0	89896	44
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	33
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	78
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	80
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	30
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	25
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	76
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	73
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	75
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Representative in Congress	 District 16	140161	Eddie Speir	REP	0	89827	42
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Representative in Congress	 District 16	140161	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	24
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	11
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Representative in Congress	 District 16	140161	UnderVotes	 	0	902	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	11
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	28
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Representative in Congress	 District 16	140162	Jon Harris	DEM	0	89642	11
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	32
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	32
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	54
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	43
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	22
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	20
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Representative in Congress	 District 16	140162	Kelly Kirschner	DEM	0	90779	28
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	11
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	20
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	45
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	22
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	21
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	11
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Representative in Congress	 District 16	140162	Tamika Lyles	DEM	0	90156	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Representative in Congress	 District 16	140162	Glenn Pearson	DEM	0	89236	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	21
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	27
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Representative in Congress	 District 16	140162	Jan Schneider	DEM	0	89135	20
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Representative in Congress	 District 16	140162	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Representative in Congress	 District 16	140162	UnderVotes	 	0	902	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Jay Collins	REP	0	89690	98
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Jay Collins	REP	0	89690	64
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Jay Collins	REP	0	89690	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Jay Collins	REP	0	89690	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Jay Collins	REP	0	89690	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Jay Collins	REP	0	89690	70
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Jay Collins	REP	0	89690	35
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Jay Collins	REP	0	89690	41
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Jay Collins	REP	0	89690	105
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Jay Collins	REP	0	89690	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Jay Collins	REP	0	89690	56
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Jay Collins	REP	0	89690	76
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Jay Collins	REP	0	89690	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Jay Collins	REP	0	89690	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Jay Collins	REP	0	89690	67
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	189
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	128
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	74
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	22
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	45
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	136
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	74
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	131
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	20
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	121
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	18
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	39
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	33
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	32
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	37
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	45
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	25
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	21
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	73
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	38
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	35
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	53
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	57
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	61
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	33
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	32
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	62
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	49
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	18
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	74
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	18
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	18
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	70
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	31
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	31
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	43
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	11
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	122
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	145
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	120
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	44
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	52
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	161
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	100
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	153
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	20
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	121
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	208
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	165
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	118
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	63
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	58
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	173
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	111
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	172
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	27
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	21
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	119
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	37
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	21
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	21
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	24
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	30
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	34
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	51
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	51
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	30
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	18
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	31
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	63
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	46
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	16
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	72
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	15
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	95
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	29
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	38
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	39
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	25
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	54
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	236
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	210
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	143
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	76
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	73
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	246
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	138
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	200
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	35
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	24
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	160
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	107
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	110
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	94
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	36
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	37
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	104
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	86
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	131
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	86
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	24
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	11
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	4
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	57
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	41
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	24
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	34
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	76
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	14
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	87
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	22
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	39
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	30
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	30
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	27
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	53
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	364	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	27
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	338	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	35
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	18	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	135	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	7
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	237	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	544	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	45
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	92	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	110	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	717	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	59
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	109	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	276	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	23
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	245	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	332	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	27
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	212	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	337	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	34
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	91
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	115
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	68
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	36
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	39
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	105
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	74
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	124
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	State Representative	 District 76	260761	Julie McCormack	REP	124711067	89994	79
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	1156	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	252
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	1084	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	199
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	47	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	12
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	15	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	3
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	48	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	5
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	845	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	168
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	321	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	72
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	390	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	75
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	1200	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	242
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	14	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	702	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	139
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	1113	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	201
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	260	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	37
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	198	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	22
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	832	0	0	State Representative	 District 76	260761	Vanessa Oliver	REP	0	88945	166
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	State Representative	 District 76	260761	OverVotes	 	0	901	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	01	01 South County Annex (Fire station)	1520	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	24
+DES	Desoto	49893	08/18/2026	2026 Primary Election	02	02 Owens' Community Center/School	1422	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	17
+DES	Desoto	49893	08/18/2026	2026 Primary Election	03	03 Pine Level United Methodist Church	65	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	05	05 The House of God Church (Fellowship Hall)	150	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	06	05 The House of God Church (Fellowship Hall)	285	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	1
+DES	Desoto	49893	08/18/2026	2026 Primary Election	07	07 Family Service Center (Annex)	1389	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	9
+DES	Desoto	49893	08/18/2026	2026 Primary Election	08	08 Oak Hill Baptist Church (Fellowship Hall)	413	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	8
+DES	Desoto	49893	08/18/2026	2026 Primary Election	09	09 Bethel Assembly of God Church	500	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	10	10 Iglesia Cristiana Patco De Fe Church	1917	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	10
+DES	Desoto	49893	08/18/2026	2026 Primary Election	11	11 Trinity United Methodist Church	123	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	0
+DES	Desoto	49893	08/18/2026	2026 Primary Election	13	13 First Baptist Church of Nocatee	978	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	19
+DES	Desoto	49893	08/18/2026	2026 Primary Election	14	14 Ft. Ogden Community  Church	1358	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	13
+DES	Desoto	49893	08/18/2026	2026 Primary Election	15	15 First Baptist Church Christian Life Center	592	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	6
+DES	Desoto	49893	08/18/2026	2026 Primary Election	16	16 McSwain Building	410	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	2
+DES	Desoto	49893	08/18/2026	2026 Primary Election	17	15 First Baptist Church Christian Life Center	1169	0	0	0	State Representative	 District 76	260761	UnderVotes	 	0	902	9

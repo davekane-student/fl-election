@@ -1,0 +1,321 @@
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	48
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	33
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	56
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	65
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	21
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	292
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	183
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	341
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	356
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	124
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	11
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	13
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	24
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	17
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	17
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	25
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	14
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	20
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	25
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	17
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	16
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	61
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	15
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	10
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	12
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	21
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	20
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	15
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	8
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	14
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	33
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	8
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	8
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	10
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	12
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	9
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	12
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	16
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	12
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	13
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	16
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	14
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	14
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	39
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	11
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Jay Collins	REP	0	89690	92
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Jay Collins	REP	0	89690	65
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Jay Collins	REP	0	89690	150
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Jay Collins	REP	0	89690	142
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Jay Collins	REP	0	89690	50
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	63
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	52
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	77
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	81
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	26
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	54
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	47
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	58
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	55
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	16
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	26
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	16
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	39
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	32
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	11
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	124
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	59
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	103
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	139
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	48
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Governor	 	160001	OverVotes	 	0	901	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Governor	 	160001	UnderVotes	 	0	902	9
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	19
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	10
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	10
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	18
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	23
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	13
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	17
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	27
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	19
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Governor	 	160002	UnderVotes	 	0	902	11
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	185
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	122
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	208
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	263
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	76
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	158
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	102
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	198
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	175
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	72
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	28
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	25
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	37
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	23
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	10
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	17
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	18
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	32
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	18
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	22
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	18
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	18
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	44
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	14
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	229
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	163
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	296
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	313
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	99
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	681	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	127
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	535	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	76
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	873	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	129
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	897	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	139
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	319	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	57
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	15
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	18
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	16
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	11
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	14
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	20
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	50
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	111	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	19
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	94	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	20
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	105	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	14
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	116	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	13
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	167	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	27
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	7
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	13
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	72	School Board	 District 3	610003	Mark C. Beach	NOP	104751873	90804	177
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	40	School Board	 District 3	610003	Mark C. Beach	NOP	104751873	90804	139
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	101	School Board	 District 3	610003	Mark C. Beach	NOP	104751873	90804	215
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	83	School Board	 District 3	610003	Mark C. Beach	NOP	104751873	90804	217
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	44	School Board	 District 3	610003	Mark C. Beach	NOP	104751873	90804	125
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	72	School Board	 District 3	610003	Mary Anne Koon McCray	NOP	104748348	90637	230
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	40	School Board	 District 3	610003	Mary Anne Koon McCray	NOP	104748348	90637	144
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	101	School Board	 District 3	610003	Mary Anne Koon McCray	NOP	104748348	90637	265
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	83	School Board	 District 3	610003	Mary Anne Koon McCray	NOP	104748348	90637	272
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	44	School Board	 District 3	610003	Mary Anne Koon McCray	NOP	104748348	90637	120
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	1
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	11
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	20
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	10
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	72	School Board	 District 5	610005	Kristyn Folsom	NOP	118532711	90806	247
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	40	School Board	 District 5	610005	Kristyn Folsom	NOP	118532711	90806	170
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	101	School Board	 District 5	610005	Kristyn Folsom	NOP	118532711	90806	280
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	83	School Board	 District 5	610005	Kristyn Folsom	NOP	118532711	90806	302
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	44	School Board	 District 5	610005	Kristyn Folsom	NOP	118532711	90806	95
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	72	School Board	 District 5	610005	Ann Murphy	NOP	104748940	90807	154
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	40	School Board	 District 5	610005	Ann Murphy	NOP	104748940	90807	114
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	101	School Board	 District 5	610005	Ann Murphy	NOP	104748940	90807	200
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	83	School Board	 District 5	610005	Ann Murphy	NOP	104748940	90807	187
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	44	School Board	 District 5	610005	Ann Murphy	NOP	104748940	90807	158
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	1	Day Community Center	864	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	17
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	2	Mayo Community Center - D2	669	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	5
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	3	Airline Community Center	1079	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	6
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	4	4th District Community Center	1096	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	20
+LAF	Lafayette	49893	08/18/2026	2026 Primary Election	5	Mayo Community Center - D5	530	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	2

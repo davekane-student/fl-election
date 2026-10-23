@@ -1,0 +1,472 @@
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	50
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	57
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	55
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	29
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	50
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	22
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	299
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	224
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	328
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	53
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	151
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	350
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	86
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	83
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	13
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	11
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	19
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	16
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	11
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	36
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	41
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	26
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	27
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	39
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	14
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	20
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	17
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	29
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	13
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	24
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	10
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	17
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	14
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	13
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	19
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	13
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	11
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	14
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	29
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	27
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	26
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	34
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	10
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	19
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	11
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Jay Collins	REP	0	89690	95
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Jay Collins	REP	0	89690	111
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Jay Collins	REP	0	89690	100
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Jay Collins	REP	0	89690	17
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Jay Collins	REP	0	89690	49
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Jay Collins	REP	0	89690	126
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Jay Collins	REP	0	89690	22
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Jay Collins	REP	0	89690	37
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	113
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	54
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	140
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	17
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	48
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	92
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	37
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	18
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	48
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	54
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	39
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	21
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	71
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	10
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	17
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	46
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	24
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	43
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	16
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	24
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	64
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	59
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	84
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	51
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	109
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	16
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	32
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	11
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	10
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	10
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	18
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	21
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	31
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	16
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	25
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	10
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	10
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Governor	 	160002	UnderVotes	 	0	902	17
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Governor	 	160002	UnderVotes	 	0	902	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	156
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	132
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	188
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	31
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	74
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	165
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	26
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	67
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	198
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	139
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	211
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	27
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	105
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	248
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	66
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	37
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	21
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	39
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	14
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	18
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	18
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	31
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	34
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	33
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	18
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	21
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	9
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	25
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	23
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	21
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	21
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	41
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	15
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	10
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	18
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	285
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	183
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	285
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	43
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	127
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	268
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	70
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	71
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	85
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	113
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	121
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	18
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	63
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	151
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	26
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	38
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	14
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	32
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	22
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	28
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	24
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	32
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	14
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	251	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	24
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	243	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	36
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	277	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	24
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	56	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	186	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	15
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	279	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	30
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	130	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	11
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	69	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	17
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	200
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	155
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	172
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	35
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	91
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	169
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	55
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	63
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	816	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	163
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	140
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	1157	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	239
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	198	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	27
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	99
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	255
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	264	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	40
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	265	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	49
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	1
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	15
+UNI	Union	49893	08/18/2026	2026 Primary Election	3A & 3B	Worthington Springs Comm Ctnr 3A & 3B	1628	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	3
+UNI	Union	49893	08/18/2026	2026 Primary Election	3C	Old SREC Building 3C	284	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	7
+UNI	Union	49893	08/18/2026	2026 Primary Election	5A & 5C	LBCC 5A & 5C	444	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	5B	Palestine Fire House 5B	383	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	County Commissioner	 District 2	380021	Casey Clark	REP	103173297	90270	67
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	715	0	0	County Commissioner	 District 2	380021	Channing Dobbs	REP	115047100	90537	339
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	2A & 2B	Raiford Community Center 2A & 2B	1073	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	2
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	County Commissioner	 District 4	380041	Mac Johns	REP	108392864	90271	138
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	County Commissioner	 District 4	380041	Mac Johns	REP	108392864	90271	282
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	491	0	0	County Commissioner	 District 4	380041	Donald Parrish	REP	108390509	90273	96
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	1051	0	0	County Commissioner	 District 4	380041	Donald Parrish	REP	108390509	90273	222
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	4A & 4C	Old SREC Building 4A & 4C	744	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	13
+UNI	Union	49893	08/18/2026	2026 Primary Election	4B	Providence Community Center 4B	1546	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	12
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	104	School Board	 District 1	610001	Chris Hodgson	NOP	108396931	90309	271
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	104	School Board	 District 1	610001	Calvin "Cal" Peterson Jr.	NOP	124054002	90275	161
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+UNI	Union	49893	08/18/2026	2026 Primary Election	1A & 1B	LBCC 1A & 1B	1171	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	14

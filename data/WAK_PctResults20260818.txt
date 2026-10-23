@@ -1,0 +1,900 @@
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	78
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	200
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	38
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	61
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	97
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	33
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	18
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	45
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	62
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	464
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	1164
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	276
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	74
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	55
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	327
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	631
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	190
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	112
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	131
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	331
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	379
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	21
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	58
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	19
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	35
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	19
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	22
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	45
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	25
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	29
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	22
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	16
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	19
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	130
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	342
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	76
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	82
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	176
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	29
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	155
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	134
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	126
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	203
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	56
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	43
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	140
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	52
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	27
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	64
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	68
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	19
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	104
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	268
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	35
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	68
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	147
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	60
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	27
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	33
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	80
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	106
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	18
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	22
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	18
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	23
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	21
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	11
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	114
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	284
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	57
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	19
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	79
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	125
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	36
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	21
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	37
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	72
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	90
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	47
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	171
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	58
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	57
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	86
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	18
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	24
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	30
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	37
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	84
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	184
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	41
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	42
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	107
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	33
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	16
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	73
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	45
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	154
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	408
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	101
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	26
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	130
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	217
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	80
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	33
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	41
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	87
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	134
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	36
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	88
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	30
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	36
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	61
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	33
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	27
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	29
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	33
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	24
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	54
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	121
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	22
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	73
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	40
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	43
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	80
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	193
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	45
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	44
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	85
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	16
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	65
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	66
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	103
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	194
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	49
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	44
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	130
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	35
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	78
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	64
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	23
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	42
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	28
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	35
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	30
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Jay Collins	REP	0	89690	181
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Jay Collins	REP	0	89690	501
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Jay Collins	REP	0	89690	92
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Jay Collins	REP	0	89690	23
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Jay Collins	REP	0	89690	19
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Jay Collins	REP	0	89690	124
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Jay Collins	REP	0	89690	258
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Jay Collins	REP	0	89690	91
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Jay Collins	REP	0	89690	53
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Jay Collins	REP	0	89690	52
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Jay Collins	REP	0	89690	133
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Jay Collins	REP	0	89690	163
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	188
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	491
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	105
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	37
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	29
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	123
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	276
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	78
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	49
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	70
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	141
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	147
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	82
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	181
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	52
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	11
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	56
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	81
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	25
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	52
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	64
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	60
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	143
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	55
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	65
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	99
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	26
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	37
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	43
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	10
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	62
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	119
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	41
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	65
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	24
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	10
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	33
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	44
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Governor	 	160001	UnderVotes	 	0	902	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Governor	 	160001	UnderVotes	 	0	902	11
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Governor	 	160001	UnderVotes	 	0	902	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Governor	 	160001	UnderVotes	 	0	902	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	18
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	36
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	11
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	19
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	76
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	36
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	21
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	32
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	192
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	366
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	98
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	25
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	91
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	226
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	66
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	18
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	34
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	156
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	130
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	16
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	42
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	14
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	11
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Governor	 	160002	OverVotes	 	0	901	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Governor	 	160002	OverVotes	 	0	901	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Governor	 	160002	UnderVotes	 	0	902	10
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Governor	 	160002	UnderVotes	 	0	902	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	252
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	599
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	128
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	27
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	34
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	177
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	324
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	107
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	77
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	70
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	162
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	197
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	291
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	758
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	176
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	50
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	38
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	210
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	413
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	123
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	44
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	65
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	208
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	236
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	55
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	124
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	37
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	51
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	69
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	34
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	18
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	24
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	42
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	49
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	91
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	197
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	42
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	42
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	123
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	10
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	77
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	78
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	161
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	335
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	85
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	19
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	77
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	183
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	63
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	21
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	26
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	135
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	123
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	31
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	364
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	912
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	237
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	60
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	50
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	266
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	541
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	167
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	80
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	109
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	262
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	284
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	204
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	503
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	93
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	24
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	144
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	242
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	81
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	56
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	38
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	122
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	175
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	30
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	66
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	11
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	28
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	23
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	16
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	28
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	23
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	139
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	307
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	73
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	2
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	59
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	179
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	50
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	23
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	105
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	123
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	754	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	103
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	1924	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	218
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	423	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	51
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	25	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	70	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	384	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	56
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	964	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	126
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	195	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	24
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	101	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	100	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	15
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	601	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	103
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	754	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	76
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	25
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	39
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	16
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	16
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	460
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	1111
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	200
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	49
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	47
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	304
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	612
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	178
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	106
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	105
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	309
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	County Commissioner	 District 4	380041	Carrie Hughes	REP	105068658	92648	371
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	1615	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	115
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	4086	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	333
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	848	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	132
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	181	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	31
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	242	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	28
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	1156	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	121
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	2223	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	177
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	546	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	81
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	350	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	27
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	343	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	49
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	1123	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	86
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	1531	0	0	County Commissioner	 District 4	380041	Quincee Messersmith	REP	108818906	92636	99
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	23
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	37
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	9
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	4
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	13
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	6
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	5
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	17
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	568	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	330
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	1584	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	781
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	264	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	149
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	30	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	10
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	73	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	35
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	326	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	178
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	738	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	423
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	162	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	118
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	132	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	66
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	88	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	56
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	416	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	268
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	696	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	286
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	568	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	505
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	1584	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	1256
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	264	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	318
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	30	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	79
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	73	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	68
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	326	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	365
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	738	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	689
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	162	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	204
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	132	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	107
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	88	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	130
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	416	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	352
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	696	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	396
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	95
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	145
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	34
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	7
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	48
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	77
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	41
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	21
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	51
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	51
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	568	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	256
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	1584	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	598
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	264	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	130
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	30	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	73	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	39
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	326	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	131
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	738	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	323
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	162	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	82
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	132	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	48
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	88	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	34
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	416	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	212
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	696	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	219
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	568	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	582
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	1584	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	1434
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	264	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	333
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	30	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	76
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	73	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	64
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	326	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	413
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	738	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	789
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	162	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	241
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	132	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	125
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	88	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	153
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	416	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	399
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	696	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	463
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	1
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	01	01 Wakulla Station	2937	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	92
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	02	02 Crawfordville	7594	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	150
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	03	03 Sopchoppy	1535	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	38
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	04	04  Smith Creek	236	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	05	05 St. Marks	385	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	8
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	06	06 Medart	1866	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	47
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	07	07 Ivan	3925	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	77
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	08	08 Shell Point	903	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	40
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	09	09 Panacea	583	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	12
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	10	10 Ochlockonee Bay	531	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	20
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	11	11 Bethel	2140	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	60
+WAK	Wakulla	49893	08/18/2026	2026 Primary Election	12	12 Shadeville	2981	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	51

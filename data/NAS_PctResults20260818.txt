@@ -1,0 +1,1170 @@
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	80
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	248
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	194
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	45
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	127
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	169
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	218
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	102
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	111
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	124
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	53
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	248
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	68
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	142
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	49
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	89
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	64
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	196
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	485
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	1245
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	1089
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	448
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	1158
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	822
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	1360
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	562
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	630
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	672
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	207
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	1203
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	403
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	747
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	273
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	474
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	417
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	946
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	50
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	29
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	33
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	24
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	16
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	25
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	69
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	69
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	20
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	43
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	29
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	45
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	24
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	32
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	44
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	58
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	39
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	31
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	46
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	40
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	115
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	75
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	24
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	48
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	32
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	15
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	32
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	49
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	20
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	36
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	14
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	18
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	40
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	265
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	286
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	224
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	62
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	156
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	153
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	248
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	91
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	114
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	169
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	92
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	105
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	42
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	34
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	134
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	58
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	130
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	140
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	450
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	353
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	77
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	364
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	123
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	286
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	81
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	128
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	94
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	30
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	55
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	26
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	84
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	23
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	39
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	14
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	27
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	202
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	153
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	153
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	53
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	153
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	107
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	197
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	77
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	101
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	132
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	71
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	77
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	26
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	18
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	95
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	35
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Representative in Congress	 District 4	140042	LaShonda "L.J." Holloway	DEM	0	89716	82
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	145
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	484
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	339
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	66
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	327
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	129
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	266
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	57
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	103
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	78
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	27
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	48
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	25
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	19
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	62
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	27
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Representative in Congress	 District 4	140042	Michael Kirwan	DEM	0	89596	48
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	56
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	96
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	61
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	19
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	35
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	66
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	36
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	36
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	55
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	24
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	35
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	16
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	61
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	19
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Representative in Congress	 District 4	140042	Brit Robinson	DEM	0	89352	39
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Representative in Congress	 District 4	140042	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	16
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	30
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	35
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Representative in Congress	 District 4	140042	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Jay Collins	REP	0	89690	186
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Jay Collins	REP	0	89690	471
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Jay Collins	REP	0	89690	408
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Jay Collins	REP	0	89690	165
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Jay Collins	REP	0	89690	342
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Jay Collins	REP	0	89690	336
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Jay Collins	REP	0	89690	509
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Jay Collins	REP	0	89690	246
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Jay Collins	REP	0	89690	235
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Jay Collins	REP	0	89690	277
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Jay Collins	REP	0	89690	100
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Jay Collins	REP	0	89690	571
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Jay Collins	REP	0	89690	190
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Jay Collins	REP	0	89690	277
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Jay Collins	REP	0	89690	107
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Jay Collins	REP	0	89690	195
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Jay Collins	REP	0	89690	189
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Jay Collins	REP	0	89690	375
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	273
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	753
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	627
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	227
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	725
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	406
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	781
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	274
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	341
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	325
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	87
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	404
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	107
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	271
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	101
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	241
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	136
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	378
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	53
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	108
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	94
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	49
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	61
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	113
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	127
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	78
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	88
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	126
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	48
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	293
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	109
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	139
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	57
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	91
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	78
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	225
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	25
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	9
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	62
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	180
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	199
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	70
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	197
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	143
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	206
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	79
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	72
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	89
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	20
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	168
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	57
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	178
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	48
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	53
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	68
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	140
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	29
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	15
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	15
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	9
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	16
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	18
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	15
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	25
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	30
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	23
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	19
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	21
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	21
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	31
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	19
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	88
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	36
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	72
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	28
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	18
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	30
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	74
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Governor	 	160001	OverVotes	 	0	901	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Governor	 	160001	OverVotes	 	0	901	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Governor	 	160001	OverVotes	 	0	901	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Governor	 	160001	UnderVotes	 	0	902	22
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Governor	 	160001	UnderVotes	 	0	902	84
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Governor	 	160001	UnderVotes	 	0	902	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Governor	 	160001	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Governor	 	160001	UnderVotes	 	0	902	26
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Governor	 	160001	UnderVotes	 	0	902	13
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Governor	 	160001	UnderVotes	 	0	902	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Governor	 	160001	UnderVotes	 	0	902	13
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Governor	 	160001	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Governor	 	160001	UnderVotes	 	0	902	9
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	35
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	46
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	24
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	30
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	21
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	20
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	18
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	25
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	13
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	18
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	20
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	14
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	22
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	19
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	19
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	27
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	17
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	63
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	61
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	44
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	16
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	21
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	38
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	28
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	40
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	50
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	26
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	30
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	43
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	16
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	232
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	556
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	437
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	87
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	427
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	169
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	372
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	87
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	152
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	135
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	57
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	73
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	31
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	25
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	105
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	46
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	71
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	32
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	34
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	33
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	25
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	26
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	42
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	17
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	22
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	29
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	13
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	9
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	30
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	24
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	13
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Governor	 	160002	UnderVotes	 	0	902	27
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Governor	 	160002	UnderVotes	 	0	902	34
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Governor	 	160002	UnderVotes	 	0	902	22
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Governor	 	160002	UnderVotes	 	0	902	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Governor	 	160002	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	200
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	450
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	384
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	130
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	364
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	364
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	476
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	231
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	282
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	338
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	122
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	639
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	178
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	341
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	118
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	199
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	177
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	467
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	384
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	1082
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	951
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	362
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	922
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	640
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	1138
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	443
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	464
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	507
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	151
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	838
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	290
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	561
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	199
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	391
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	305
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	710
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	57
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	195
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	121
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	50
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	123
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	59
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	73
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	44
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	43
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	94
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	38
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	69
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	32
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	28
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	38
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	61
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	102
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	158
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	144
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	116
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	96
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	159
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	48
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	72
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	92
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	45
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	67
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	4
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	28
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	14
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	70
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	28
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	67
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	277
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	539
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	380
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	88
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	364
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	170
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	343
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	117
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	155
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	169
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	73
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	89
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	9
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	38
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	30
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	146
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	53
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	101
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	40
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	66
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	64
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	42
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	13
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	35
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	20
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	15
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	380
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	1080
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	922
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	357
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	980
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	675
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	1157
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	427
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	495
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	523
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	151
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	919
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	319
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	575
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	178
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	366
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	317
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	731
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	194
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	463
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	385
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	134
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	294
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	335
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	432
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	251
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	254
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	325
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	119
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	585
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	164
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	340
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	154
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	221
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	171
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	458
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	67
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	185
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	149
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	52
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	135
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	53
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	99
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	37
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	41
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	40
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	14
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	67
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	23
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	57
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	17
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	31
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	32
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	48
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	239
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	453
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	336
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	92
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	302
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	158
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	311
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	105
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	148
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	153
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	88
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	87
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	7
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	40
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	26
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	158
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	40
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	105
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	1034	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	125
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	1407	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	210
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	1129	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	160
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	338	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	39
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	983	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	156
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	961	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	105
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	1362	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	178
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	690	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	56
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	840	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	74
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	933	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	103
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	484	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	29
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	797	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	65
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	105	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	6
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	289	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	21
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	181	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	17
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	1006	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	58
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	295	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	37
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	737	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	57
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	55
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	100
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	92
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	64
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	16
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	48
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	15
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	25
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	11
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	19
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	349
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	786
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	610
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	177
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	544
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	439
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	505
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	252
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	299
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	364
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	151
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	402
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	119
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	209
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	99
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	213
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	154
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	County Commissioner	 District 2	380021	Laura E Dotson	REP	128047025	90770	321
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	214
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	519
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	517
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	175
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	620
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	287
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	588
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	256
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	282
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	316
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	95
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	577
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	128
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	388
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	121
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	248
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	203
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	County Commissioner	 District 2	380021	Douglas Greene	REP	120098246	91930	414
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	628
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	1611
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	1197
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	364
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	971
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	679
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	1258
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	406
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	459
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	509
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	169
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	751
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	258
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	425
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	180
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	395
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	236
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	County Commissioner	 District 2	380021	A.M."Hupp" Huppmann	REP	124760389	90768	682
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	87
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	183
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	138
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	39
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	100
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	79
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	147
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	50
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	79
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	63
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	22
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	116
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	38
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	85
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	23
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	64
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	43
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	87
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	683
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	1483
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	1227
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	382
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	1236
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	731
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	1229
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	455
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	570
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	609
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	204
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	795
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	200
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	304
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	126
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	423
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	246
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	County Commissioner	 District 4	380041	Alyson R McCullough	REP	113939582	90771	570
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	1355	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	425
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	3078	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	1195
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	2870	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	967
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	1363	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	305
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	3119	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	745
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	3255	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	637
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	4598	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	1053
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	2208	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	437
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	2854	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	435
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	3467	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	557
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	1262	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	199
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	4958	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	979
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	1403	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	317
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	2879	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	756
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	1217	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	279
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	2959	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	422
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	1834	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	356
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	4654	0	0	County Commissioner	 District 4	380041	Cheryl Plaugher	REP	103538370	90773	874
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	170
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	420
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	268
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	68
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	254
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	116
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	217
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	72
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	114
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	86
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	34
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	72
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	26
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	47
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	18
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	76
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	34
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	60
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	761	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	766
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	1582	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	1647
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	1404	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	1336
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	463	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	349
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	1315	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	1237
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	1316	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	741
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	1993	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	1325
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	880	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	499
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	1182	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	543
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	1251	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	635
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	671	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	209
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	1042	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	885
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	204	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	259
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	527	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	569
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	247	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	205
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	1548	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	449
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	437	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	307
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	1211	School Board	 District 5	690005	Lissa Braddock	NOP	105921875	90834	844
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	761	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	375
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	1582	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	1055
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	1404	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	843
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	463	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	322
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	1315	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	737
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	1316	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	613
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	1993	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	956
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	880	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	390
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	1182	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	470
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	1251	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	534
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	671	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	199
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	1042	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	877
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	204	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	256
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	527	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	457
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	247	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	201
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	1548	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	404
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	437	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	300
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	1211	School Board	 District 5	690005	Angel Foster Cole	NOP	105960847	90825	597
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	1
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	School Board	 District 5	690005	OverVotes	 	0	901	0
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	11	11 - MLK / Elm Street Rec Center	3150	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	137
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	12	12 - Atlantic Avenue Rec Center	6067	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	397
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	13	13 - Peck Center Auditorium	5403	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	283
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	14	31 / 14 - James S Page Governmental Complex	2164	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	84
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	21	21 - American Beach Commnunity Center	5417	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	262
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	22	22 / 23 - Springhill Baptist Church	5532	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	130
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	23	22 / 23 - Springhill Baptist Church	7953	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	217
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	31	31 / 14 - James S Page Governmental Complex	3778	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	75
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	32	32 - Yulee Sports Complex	4876	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	106
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	33	33 - The River of Praise Worship Center	5651	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	83
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	34	34 / 51 - FSCJ - Building 30 Nassau Room	2417	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	29
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	41	41 - Hilliard Community Center	6797	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	84
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	42	42 - River Road Baptist Church	1712	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	28
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	43	43 - Bryceville Community Center	3695	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	81
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	44	44 / 52 - Callahan Fairgrounds Multi Purpose Building	1645	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	17
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	51	34 / 51 - FSCJ - Building 30 Nassau Room	5513	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	68
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	52	44 / 52 - Callahan Fairgrounds Multi Purpose Building	2566	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	29
+NAS	Nassau	49893	08/18/2026	2026 Primary Election	53	53 - Walter Junior Boatright County Building	6602	0	0	0	School Board	 District 5	690005	UnderVotes	 	0	902	63

@@ -1,0 +1,1001 @@
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	18
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	27
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	54
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	25
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	105
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	108
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	86
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	65
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	159
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	73
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	136
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	216
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	35
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	106
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	158
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	97
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	27
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	30
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	30
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	35
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	94
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	60
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	70
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	45
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	73
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	35
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	72
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	153
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	95
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Representative in Congress	 District 9	140091	Ben Butler	REP	0	91519	85
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	21
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	31
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Representative in Congress	 District 9	140091	Marcus Carter	REP	0	89024	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Representative in Congress	 District 9	140091	Thomas E. Chalifoux Jr.	REP	0	89529	22
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	51
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	30
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	62
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Representative in Congress	 District 9	140091	Dan Green	REP	0	91337	41
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	31
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Representative in Congress	 District 9	140091	Jorge Martinez	REP	0	91035	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Representative in Congress	 District 9	140091	Steve Rance	REP	125730370	89418	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Representative in Congress	 District 9	140091	Justin Story	REP	0	89222	18
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Representative in Congress	 District 9	140091	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Representative in Congress	 District 9	140091	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Jay Collins	REP	0	89690	30
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Jay Collins	REP	0	89690	26
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Jay Collins	REP	0	89690	49
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Jay Collins	REP	0	89690	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Jay Collins	REP	0	89690	30
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Jay Collins	REP	0	89690	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Jay Collins	REP	0	89690	34
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Jay Collins	REP	0	89690	57
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Jay Collins	REP	0	89690	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Jay Collins	REP	0	89690	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Jay Collins	REP	0	89690	27
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Jay Collins	REP	0	89690	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Jay Collins	REP	0	89690	42
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	55
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	51
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	37
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	32
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	88
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	36
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	66
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	129
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	43
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	89
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	21
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	25
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	23
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	31
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	23
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	36
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	18
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	55
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	62
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Governor	 	160001	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Governor	 	160001	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	32
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	35
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	31
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Governor	 	160002	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Governor	 	160002	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	75
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	63
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	66
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	39
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	96
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	29
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	108
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	165
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	46
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	109
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	53
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	63
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	52
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	29
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	90
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	46
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	67
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	112
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	70
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	78
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	21
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	32
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	55
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	18
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	23
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	23
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	63
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	37
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	33
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	97
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	93
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	75
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	51
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	99
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	55
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	115
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	150
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	89
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	120
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	36
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	41
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	54
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	26
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	94
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	26
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	71
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	141
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	25
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	31
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	78
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	18
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	61
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	23
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	47
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	62	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	83	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	319	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	54
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	41	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	132	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	22
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	45	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	96	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	18
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	218	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	35
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	13	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	83	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	46	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	71	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	200	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	65
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	86
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	138
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	37
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	83
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	35
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	87
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	100
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	65
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	22
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	County Commissioner	 District 4	380041	Linda Cisneros	REP	104280061	90179	137
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	22
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	23
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	County Commissioner	 District 4	380041	Tarik Kose	REP	132301194	90676	21
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	233	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	96
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	275	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	86
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	302	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	127
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	151	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	61
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	630	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	124
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	230	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	57
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	466	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	118
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	749	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	256
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	111	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	30
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	82	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	179	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	73
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	1	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	649	0	0	County Commissioner	 District 4	380041	Hattie Taylor	REP	104281944	90180	116
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	25
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	25
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	75	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	45
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	75	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	45
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	141	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	107
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	49	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	184	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	75
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	61	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	32
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	122	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	59
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	207	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	118
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	36	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	82	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	38	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	31
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	13	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	22
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	215	Circuit Judge	 20th Judicial Circuit, Group 19	552019	Vera Bergermann	NOP	0	89706	108
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	75	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	114
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	75	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	127
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	141	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	156
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	49	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	66
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	184	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	146
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	61	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	64
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	122	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	144
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	207	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	242
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	36	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	29
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	82	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	20
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	38	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	104
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	13	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	215	Circuit Judge	 20th Judicial Circuit, Group 19	552019	James Stewart	NOP	0	89586	164
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	23
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	33
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	35
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	10
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	45
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 19	552019	UnderVotes	 	0	902	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	75	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	51
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	75	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	55
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	141	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	78
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	49	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	184	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	74
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	61	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	26
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	122	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	68
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	207	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	144
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	36	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	18
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	82	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	38	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	32
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	13	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	215	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Ryan Kuhl	NOP	103093071	89712	104
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	75	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	106
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	75	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	119
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	141	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	182
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	49	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	66
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	184	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	152
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	61	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	73
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	122	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	134
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	207	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	213
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	36	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	27
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	82	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	38	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	102
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	13	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	26
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	215	Circuit Judge	 20th Judicial Circuit, Group 27	552027	Amanda Levy-Reis	NOP	111319705	89599	168
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	21
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	21
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	36
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	30
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	25
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	48
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	Circuit Judge	 20th Judicial Circuit, Group 27	552027	UnderVotes	 	0	902	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	75	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	121
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	75	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	131
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	141	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	196
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	49	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	73
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	184	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	158
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	61	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	62
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	122	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	153
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	207	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	283
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	36	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	34
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	82	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	27
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	38	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	102
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	13	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	27
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	215	School Board	 District 1	610001	Angie Woodward Hough	NOP	107883727	90181	176
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	75	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	50
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	75	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	52
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	141	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	83
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	49	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	184	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	70
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	61	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	36
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	122	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	63
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	207	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	84
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	36	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	82	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	9
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	38	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	47
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	13	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	14
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	215	School Board	 District 1	610001	Anita Thielan Sauls	NOP	104334576	90183	94
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	12
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	17
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	6
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	38
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	2
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	1
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	4
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	19
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	75	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	44
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	75	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	53
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	141	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	119
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	49	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	26
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	184	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	96
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	61	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	59
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	122	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	112
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	207	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	231
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	36	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	26
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	82	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	24
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	38	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	36
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	13	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	15
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	215	School Board	 District 5	610005	Patricia Pearce	NOP	104281289	90182	107
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	75	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	123
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	75	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	126
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	141	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	149
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	49	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	73
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	184	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	139
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	61	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	40
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	122	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	99
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	207	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	138
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	36	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	23
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	82	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	13
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	38	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	109
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	13	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	25
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	215	School Board	 District 5	610005	Lauren V Thompson	NOP	115421815	90670	162
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	1	Doyle Conner Bldg	370	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	11
+GLA	Glades	49893	08/18/2026	2026 Primary Election	2	Ortona Community Center	433	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	3	Doyle Conner Bldg	762	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	28
+GLA	Glades	49893	08/18/2026	2026 Primary Election	4	Palmdale Community Center	241	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	8
+GLA	Glades	49893	08/18/2026	2026 Primary Election	5	Muse Community Center	946	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	21
+GLA	Glades	49893	08/18/2026	2026 Primary Election	6	Muse Community Center	336	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	7
+GLA	Glades	49893	08/18/2026	2026 Primary Election	7	Lakeport Community Center	684	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	16
+GLA	Glades	49893	08/18/2026	2026 Primary Election	8	BHR Community Center	1174	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	36
+GLA	Glades	49893	08/18/2026	2026 Primary Election	9	Lakeport Community Center	160	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	3
+GLA	Glades	49893	08/18/2026	2026 Primary Election	10	Lakeport Community Center	247	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	0
+GLA	Glades	49893	08/18/2026	2026 Primary Election	11	Doyle Conner Bldg	263	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	12	Washington Park Comm Center	85	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	5
+GLA	Glades	49893	08/18/2026	2026 Primary Election	13	Indian Hills Fire Dept	1064	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	20

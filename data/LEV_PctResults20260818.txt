@@ -1,0 +1,910 @@
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	89
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	87
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	141
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	52
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	133
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	72
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	138
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	89
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	45
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	24
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	67
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	77
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	360
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	531
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	584
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	208
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	864
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	130
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	358
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	633
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	462
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	294
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	261
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	432
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	412
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	27
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	47
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	24
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	22
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	24
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	15
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	15
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	52
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	17
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	17
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	22
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	94
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	106
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	162
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	49
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	61
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	197
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	73
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	62
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	27
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	66
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	63
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	98
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	68
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	89
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	80
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	72
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	92
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	84
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	84
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	77
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	35
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	43
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	41
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	17
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	30
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	46
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	34
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	34
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	50
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	61
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	78
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	59
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	38
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	98
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	41
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	37
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	39
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	39
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	43
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	23
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	28
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	30
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	23
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	38
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	31
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	64
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	68
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	84
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	33
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	67
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	104
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	62
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	53
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	33
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	43
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	59
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	11
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	15
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	22
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Jay Collins	REP	0	89690	143
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Jay Collins	REP	0	89690	244
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Jay Collins	REP	0	89690	288
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Jay Collins	REP	0	89690	103
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Jay Collins	REP	0	89690	382
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Jay Collins	REP	0	89690	65
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Jay Collins	REP	0	89690	159
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Jay Collins	REP	0	89690	257
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Jay Collins	REP	0	89690	194
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Jay Collins	REP	0	89690	154
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Jay Collins	REP	0	89690	122
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Jay Collins	REP	0	89690	189
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Jay Collins	REP	0	89690	173
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	140
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	194
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	197
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	93
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	258
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	33
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	140
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	224
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	207
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	61
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	67
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	161
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	153
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	57
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	75
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	74
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	37
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	101
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	64
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	103
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	58
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	42
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	35
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	39
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	50
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	43
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	50
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	58
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	19
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	73
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	38
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	86
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	37
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	32
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	28
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	32
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	38
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	15
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	73
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	72
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	141
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	30
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	224
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	26
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	47
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	132
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	77
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	62
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	46
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	92
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	97
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Governor	 	160001	OverVotes	 	0	901	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Governor	 	160001	UnderVotes	 	0	902	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Governor	 	160001	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	23
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	19
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	42
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	19
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	26
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	11
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	26
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	34
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	44
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	31
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	27
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	24
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	85
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	113
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	125
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	87
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	101
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	147
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	100
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	86
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	22
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	58
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	48
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	70
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	15
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	11
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	28
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Governor	 	160002	OverVotes	 	0	901	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Governor	 	160002	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Governor	 	160002	UnderVotes	 	0	902	11
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Governor	 	160002	UnderVotes	 	0	902	17
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Governor	 	160002	UnderVotes	 	0	902	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Governor	 	160002	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Governor	 	160002	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Governor	 	160002	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	253
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	324
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	421
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	129
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	518
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	89
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	233
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	410
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	298
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	155
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	118
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	293
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	251
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	198
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	301
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	335
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	138
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	479
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	55
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	212
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	365
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	261
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	172
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	174
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	202
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	241
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	30
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	42
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	47
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	31
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	89
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	28
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	51
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	40
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	32
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	34
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	40
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	49
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	68
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	86
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	33
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	51
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	96
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	63
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	38
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	36
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	37
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	54
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	105
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	123
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	152
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	84
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	100
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	182
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	90
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	100
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	27
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	61
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	65
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	78
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	15
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	11
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	19
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	14
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	272
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	434
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	460
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	195
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	723
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	82
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	298
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	525
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	339
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	239
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	228
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	349
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	349
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	189
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	213
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	322
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	91
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	322
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	64
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	155
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	281
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	241
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	111
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	78
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	171
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	164
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	41
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	6
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	19
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	19
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	89
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	110
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	161
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	74
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	80
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	171
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	86
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	85
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	28
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	61
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	62
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	73
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	583	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	64
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	675	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	80
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	827	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	75
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	287	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	40
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	450	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	66
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	73	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	11
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	989	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	104
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	493	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	66
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	376	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	46
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	155	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	11
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	335	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	33
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	335	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	39
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	507	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	60
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	24
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	7
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	15
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	13
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	199
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	302
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	305
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	141
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	501
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	51
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	209
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	357
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	266
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	159
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	127
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	249
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	County Commissioner	 District 2	380021	Wesley Langston	REP	118963701	91514	218
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	248
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	325
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	456
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	128
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	535
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	91
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	230
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	402
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	262
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	180
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	162
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	262
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	County Commissioner	 District 2	380021	Matt Lemery	REP	105243999	91512	293
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	34
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	40
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	42
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	29
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	50
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	10
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	34
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	67
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	71
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	19
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	18
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	245
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	268
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	387
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	145
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	401
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	61
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	222
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	257
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	202
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	133
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	116
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	225
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	County Commissioner	 District 4	380041	Billy Hinote	REP	105235163	92217	239
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	235
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	393
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	437
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	217
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	638
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	83
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	350
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	432
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	343
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	210
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	193
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	312
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	County Commissioner	 District 4	380041	Tim Hodge	REP	103226383	91521	323
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	1317	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	160
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	1913	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	212
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	2334	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	237
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	751	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	84
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	2351	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	252
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	363	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	29
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	1290	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	173
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	2288	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	277
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	1703	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	185
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	775	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	52
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	789	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	90
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	1389	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	103
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	1420	0	0	County Commissioner	 District 4	380041	David Sharpe	REP	104825962	91520	116
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	52
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	71
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	52
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	31
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	39
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	64
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	82
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	86
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	17
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	30
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	34
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	32
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	417
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	538
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	727
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	264
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	796
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	96
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	452
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	604
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	425
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	259
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	265
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	369
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	County Court Judge	 Group 1	600001	Luis Bustamante	NOP	108016616	90029	389
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	253
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	372
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	365
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	197
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	510
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	87
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	335
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	395
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	343
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	141
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	159
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	285
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	County Court Judge	 Group 1	600001	Darla Whistler	NOP	100522717	90031	296
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	2
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	County Court Judge	 Group 1	600001	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	22
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	34
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	16
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	24
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	9
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	22
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	49
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	48
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	12
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	5
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	20
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	County Court Judge	 Group 1	600001	UnderVotes	 	0	902	25
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	346
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	559
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	595
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	199
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	769
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	97
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	496
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	525
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	322
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	244
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	233
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	385
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	School Board	 District 3	610003	Jaime Handlin	NOP	105256271	91525	395
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	298
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	335
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	458
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	237
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	465
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	75
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	280
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	436
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	446
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	128
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	181
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	246
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	School Board	 District 3	610003	Tricia Horvath	NOP	106010626	91524	261
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	1
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+LEV	Levy	49893	08/18/2026	2026 Primary Election	01	Bronson Ag Extension Bldg	2378	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	48
+LEV	Levy	49893	08/18/2026	2026 Primary Election	02	Williston Highlands	3245	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	50
+LEV	Levy	49893	08/18/2026	2026 Primary Election	03	Bronson First Baptist	3869	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	60
+LEV	Levy	49893	08/18/2026	2026 Primary Election	04	Cedar Key City Hall	1284	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	41
+LEV	Levy	49893	08/18/2026	2026 Primary Election	05	Willow Sink	3304	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	96
+LEV	Levy	49893	08/18/2026	2026 Primary Election	06	Otter Creek Baptist Church	436	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	21
+LEV	Levy	49893	08/18/2026	2026 Primary Election	07	Williston City Hall	2713	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	33
+LEV	Levy	49893	08/18/2026	2026 Primary Election	08	Morriston Baptist Church	3427	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	88
+LEV	Levy	49893	08/18/2026	2026 Primary Election	09	Inglis Community Center	2601	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	48
+LEV	Levy	49893	08/18/2026	2026 Primary Election	10	Pine Grove Baptist Church	1050	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	40
+LEV	Levy	49893	08/18/2026	2026 Primary Election	11	Miracle Vision Tabernacle	1297	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	15
+LEV	Levy	49893	08/18/2026	2026 Primary Election	12	CF Fanning Springs	2054	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	43
+LEV	Levy	49893	08/18/2026	2026 Primary Election	13	Chiefland Tommy Usher Center	2289	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	54

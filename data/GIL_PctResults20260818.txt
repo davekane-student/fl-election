@@ -1,0 +1,660 @@
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	44
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	86
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	95
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	86
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	35
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	73
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	54
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	50
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	305
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	120
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	76
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	602
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	437
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	413
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	240
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	472
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	278
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	220
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	22
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	15
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	14
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	23
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	22
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	14
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	15
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	19
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	40
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	35
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	30
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	43
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	26
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	24
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	19
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	19
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	31
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	26
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	22
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	22
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	35
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	34
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	26
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	14
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	16
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	32
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	20
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	18
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	23
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	31
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	26
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	24
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	15
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	26
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	23
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	20
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Jay Collins	REP	0	89690	99
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Jay Collins	REP	0	89690	52
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Jay Collins	REP	0	89690	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Jay Collins	REP	0	89690	244
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Jay Collins	REP	0	89690	177
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Jay Collins	REP	0	89690	160
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Jay Collins	REP	0	89690	88
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Jay Collins	REP	0	89690	209
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Jay Collins	REP	0	89690	112
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Jay Collins	REP	0	89690	82
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	82
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	30
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	139
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	95
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	120
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	82
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	142
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	89
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	76
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	62
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	19
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	17
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	68
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	82
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	74
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	31
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	61
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	40
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	46
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	65
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	16
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	125
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	87
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	56
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	69
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	63
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	38
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	54
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	21
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	23
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	139
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	120
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	103
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	62
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	84
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	52
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	50
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Governor	 	160001	UnderVotes	 	0	902	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Governor	 	160001	UnderVotes	 	0	902	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Governor	 	160001	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Governor	 	160001	UnderVotes	 	0	902	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	29
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	44
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	31
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	31
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	25
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	44
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	30
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	33
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Governor	 	160002	UnderVotes	 	0	902	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Governor	 	160002	UnderVotes	 	0	902	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Governor	 	160002	UnderVotes	 	0	902	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	162
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	65
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	39
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	305
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	252
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	263
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	147
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	199
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	134
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	128
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	191
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	66
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	50
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	377
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	287
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	238
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	137
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	334
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	207
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	152
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	27
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	5
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	57
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	41
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	34
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	18
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	42
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	27
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	30
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	27
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	31
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	20
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	27
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	46
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	36
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	24
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	33
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	22
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	44
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	38
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	25
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	244
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	98
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	67
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	492
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	387
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	313
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	176
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	390
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	253
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	184
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	121
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	38
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	25
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	227
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	183
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	208
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	114
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	174
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	101
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	115
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	15
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	20
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	14
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	11
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	14
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	21
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	39
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	37
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	24
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	18
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	39
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	31
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	27
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	173	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	25
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	74	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	109	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	19
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	205	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	29
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	181	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	30
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	193	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	23
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	119	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	17
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	217	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	36
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	191	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	26
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	244	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	18
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	10
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	9
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	82
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	33
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	35
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	139
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	100
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	86
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	56
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	146
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	76
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	County Commissioner	 District 2	380021	Daniel Fussell	REP	103237867	92472	93
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	164
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	46
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	48
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	268
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	227
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	190
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	121
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	216
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	132
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	County Commissioner	 District 2	380021	Bill Martin	REP	104271312	90022	122
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	794	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	198
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	345	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	85
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	189	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	71
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	1472	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	433
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	1238	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	337
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	1237	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	360
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	671	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	162
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	1352	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	294
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	884	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	233
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	939	0	0	County Commissioner	 District 2	380021	Cody NesSmith	REP	103236314	90023	152
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	18
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	7
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	20
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	14
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	18
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	14
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	35
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	25
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	164	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	164
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	77	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	79
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	41	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	63
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	243	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	309
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	244	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	290
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	329	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	235
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	161	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	100
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	325	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	263
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	212	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	163
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	240	School Board	 District 3	610003	Raymond Robbins	NOP	106227825	90606	167
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	164	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	255
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	77	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	79
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	41	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	85
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	243	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	500
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	244	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	364
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	329	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	398
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	161	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	225
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	325	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	376
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	212	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	242
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	240	School Board	 District 3	610003	Roy A Smith	NOP	104272058	90026	182
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	School Board	 District 3	610003	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	43
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	13
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	12
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	51
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	24
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	21
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	28
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	53
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	48
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	School Board	 District 3	610003	UnderVotes	 	0	902	43
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	164	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	249
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	77	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	96
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	41	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	99
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	243	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	441
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	244	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	367
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	329	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	312
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	161	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	140
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	325	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	323
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	212	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	222
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	240	School Board	 District 5	610005	Charlotte Kearney	NOP	104269510	90027	216
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	164	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	205
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	77	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	69
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	41	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	60
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	243	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	389
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	244	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	285
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	329	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	311
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	161	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	189
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	325	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	332
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	212	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	205
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	240	School Board	 District 5	610005	Deen Lancaster	NOP	104272650	90028	151
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	School Board	 District 5	610005	OverVotes	 	0	901	0
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1A	1A Trenton Center 	1131	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	8
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1B	1B County Library 	496	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	6
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	1C	1C County Library 	339	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	1
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	2A	2A Donnie Center 	1920	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	30
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	3A	3A Bell Community Center 	1663	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	26
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	4A	4A Cruse Center 	1759	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	30
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	5A	5A N Gilchrist Fire Station 	951	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	24
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	6A	6A Osteen Center 	1894	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	37
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	7A	7A Osceola Center 	1287	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	26
+GIL	Gilchrist	49893	08/18/2026	2026 Primary Election	8A	8A Southeast Center 	1423	0	0	0	School Board	 District 5	610005	UnderVotes	 	0	902	25

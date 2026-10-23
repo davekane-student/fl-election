@@ -1,0 +1,585 @@
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	88
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	118
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	131
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	13
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	32
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	97
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	53
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	176
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	433
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	694
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	733
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	59
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	189
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	680
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	290
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	926
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	43
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	11
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	20
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	37
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	36
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	22
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	31
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	21
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	38
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	45
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	33
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	55
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	137
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	97
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	85
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	28
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	17
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	56
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	43
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	37
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	37
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	27
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	47
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	20
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	15
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	25
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	30
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	35
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	22
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Representative in Congress	 District 3	140032	Troy Albers	DEM	0	89496	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	34
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	26
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	27
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	11
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	21
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Representative in Congress	 District 3	140032	Seth Harp	DEM	0	89177	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	19
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	19
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Representative in Congress	 District 3	140032	George Hubac	DEM	0	89930	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	83
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	60
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	62
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	16
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	23
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	42
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Representative in Congress	 District 3	140032	Tom Wells	DEM	0	89588	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Representative in Congress	 District 3	140032	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	29
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	22
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	28
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	13
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	38
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Representative in Congress	 District 3	140032	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	143
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	209
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	266
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	13
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	50
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	240
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	93
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	338
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Jay Collins	REP	0	89690	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	150
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	284
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	278
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	33
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	77
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	237
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	99
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	318
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	93
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	136
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	149
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	11
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	34
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	113
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	61
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	201
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	77
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	131
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	139
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	22
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	139
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	44
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	164
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	82
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	95
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	89
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	11
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	49
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	92
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	59
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	144
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	23
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160001	UnderVotes	 	0	902	11
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160001	UnderVotes	 	0	902	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160001	UnderVotes	 	0	902	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160001	UnderVotes	 	0	902	17
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	40
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	20
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	17
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	11
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	34
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	24
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	28
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	64
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	56
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	50
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	37
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	51
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	13
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	22
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Governor	 	160002	UnderVotes	 	0	902	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Governor	 	160002	UnderVotes	 	0	902	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Governor	 	160002	UnderVotes	 	0	902	20
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Governor	 	160002	UnderVotes	 	0	902	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Governor	 	160002	UnderVotes	 	0	902	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Governor	 	160002	UnderVotes	 	0	902	16
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Governor	 	160002	UnderVotes	 	0	902	26
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	276
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	392
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	403
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	34
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	118
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	307
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	173
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	505
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	42
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	267
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	438
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	477
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	38
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	109
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	467
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	176
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	622
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	15
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	28
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	66
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	73
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	12
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	64
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	72
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	88
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	51
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	53
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	21
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	56
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	13
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	86
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	80
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	68
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	31
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	44
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	26
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	26
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	15
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	16
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	33
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	333
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	521
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	569
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	53
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	143
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	532
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	209
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	728
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	25
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	214
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	331
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	341
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	24
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	93
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	263
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	148
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	416
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	37
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	24
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	44
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	43
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	43
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	55
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	98
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	77
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	63
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	19
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	15
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	38
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	11
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	72
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	53
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	56
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	10
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	34
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	18
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	61
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	9
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	30
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	19
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	28
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	16
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	34
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	273
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	498
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	513
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	43
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	130
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	421
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	176
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	553
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	State Representative	 District 10	260101	Chase Brannan	REP	0	88929	24
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	293
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	382
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	413
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	36
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	107
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	393
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	184
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	622
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	State Representative	 District 10	260101	Marshall Rawson	REP	119337438	88952	36
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	State Representative	 District 10	260101	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	16
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	27
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	2
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	24
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	24
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	State Representative	 District 10	260101	UnderVotes	 	0	902	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	348
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	533
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	537
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	46
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	92
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	453
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	199
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	614
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	County Commissioner	 District 2	380021	Jimmy Anderson	REP	100598443	92428	19
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	418
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	529
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	570
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	44
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	178
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	460
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	217
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	730
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	County Commissioner	 District 2	380021	Ricky Horne	REP	100602027	92429	62
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	County Commissioner	 District 2	380021	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	38
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	35
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	55
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	7
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	29
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	14
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	45
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	County Commissioner	 District 2	380021	UnderVotes	 	0	902	8
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	409
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	532
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	522
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	41
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	174
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	403
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	218
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	673
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	County Commissioner	 District 4	380041	Blake Iverson	REP	100603393	92436	45
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	368
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	534
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	587
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	49
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	99
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	519
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	207
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	677
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	County Commissioner	 District 4	380041	CJ Thompson	REP	100600952	92434	35
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	County Commissioner	 District 4	380041	OverVotes	 	0	901	0
+BAK	Baker	49893	08/18/2026	2026 Primary Election	1A	Sanderson Community Center	2343	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	27
+BAK	Baker	49893	08/18/2026	2026 Primary Election	2A	Macclenny Baptist Gym	3491	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	31
+BAK	Baker	49893	08/18/2026	2026 Primary Election	3A	Extension Office	3480	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	53
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4A	Baxter Fire Station	224	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	1
+BAK	Baker	49893	08/18/2026	2026 Primary Election	4B	Taylor Voting House	715	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	4
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4C	Extension Office	2210	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	20
+BAK	Baker	49893	08/18/2026	2026 Primary Election	 4D	Cuyler Church Hall	1200	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	5
+BAK	Baker	49893	08/18/2026	2026 Primary Election	5A	Glen Baptist Church	3812	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	39
+BAK	Baker	49893	08/18/2026	2026 Primary Election	6A	Olustee Fire Station	279	0	0	0	County Commissioner	 District 4	380041	UnderVotes	 	0	902	9

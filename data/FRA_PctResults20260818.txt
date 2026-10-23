@@ -1,0 +1,580 @@
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	59
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	22
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	66
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	38
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	28
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	26
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	306
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	86
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	91
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	48
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	305
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	154
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	161
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	118
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	13
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	33
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	13
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	149
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	17
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	69
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	26
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	24
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	40
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	28
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	83
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	44
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	53
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	30
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	58
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	34
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	19
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	48
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	23
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	64
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	47
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	27
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	12
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	41
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	22
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	10
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	66
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	25
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	126
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	49
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	72
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	34
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	47
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	83
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	42
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	10
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	60
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	31
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	27
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	92
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	25
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	78
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	37
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	61
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	23
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	16
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	33
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	10
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	81
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	19
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	30
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	12
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	12
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	35
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	23
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	17
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	29
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	17
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	92
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	28
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	59
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	24
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	27
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	9
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	9
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Jay Collins	REP	0	89690	119
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Jay Collins	REP	0	89690	27
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Jay Collins	REP	0	89690	30
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Jay Collins	REP	0	89690	16
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Jay Collins	REP	0	89690	126
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Jay Collins	REP	0	89690	47
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Jay Collins	REP	0	89690	70
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Jay Collins	REP	0	89690	49
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	134
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	58
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	46
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	26
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	164
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	105
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	90
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	49
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	33
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	12
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	26
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	13
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	19
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	29
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	22
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	13
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	53
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	34
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	10
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Governor	 	160001	OverVotes	 	0	901	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Governor	 	160001	UnderVotes	 	0	902	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Governor	 	160001	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	12
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	9
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	10
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	42
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	33
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	153
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	54
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	69
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	34
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	66
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	36
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	19
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Governor	 	160002	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Governor	 	160002	UnderVotes	 	0	902	18
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	203
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	53
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	50
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	206
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	113
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	83
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	72
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	159
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	57
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	58
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	38
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	171
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	82
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	107
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	70
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	18
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	7
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	9
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	28
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	13
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	19
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	13
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	29
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	9
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	94
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	36
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	22
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	23
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	41
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	30
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	131
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	40
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	82
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	42
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	55
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	33
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	1
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	22
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	233
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	83
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	82
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	40
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	239
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	128
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	118
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	104
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	1051	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	136
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	244	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	31
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	350	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	30
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	146	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	933	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	148
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	443	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	67
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	512	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	71
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	417	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	39
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	11
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	18
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	13
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	12
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	38
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	28
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	140
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	42
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	71
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	32
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	52
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	31
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	360	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	29
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	82	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	9
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	635	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	81
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	132	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	17
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	349	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	48
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	125	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	187	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	24
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	271	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	27
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	8
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	13
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	3
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	22
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	259	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	126
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	66	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	41
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	198	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	219
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	83	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	64
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	324	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	207
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	139	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	99
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	178	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	108
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	137	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Stephanie A. Cager	NOP	119976723	89918	73
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	259	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	327
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	66	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	113
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	198	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	126
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	83	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	76
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	324	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	357
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	139	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	173
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	178	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	174
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	137	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	Jason Jones	NOP	105211766	89751	132
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	30
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	15
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	22
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	6
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	45
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	21
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	33
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 7	550207	UnderVotes	 	0	902	22
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	259	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	92
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	66	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	29
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	198	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	200
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	83	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	50
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	324	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	150
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	139	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	53
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	178	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	85
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	137	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	Rashad Green	NOP	116401210	89820	49
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	259	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	362
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	66	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	126
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	198	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	148
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	83	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	86
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	324	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	411
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	139	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	220
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	178	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	202
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	137	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	J. Lee Marsh	NOP	105042628	89680	154
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	01	Eastpoint	1670	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	29
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	14
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	03	Holy Family Center	1183	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	19
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	04	Historic Holy Family	361	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	10
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	48
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	20
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	07	St. George Island	877	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	28
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	08	American Legion	825	0	0	0	Circuit Judge	 2nd Judicial Circuit, Group 13	550213	UnderVotes	 	0	902	24
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	66	School Board	 District 2	610002	Ray Messer	NOP	104225219	90688	73
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	324	School Board	 District 2	610002	Ray Messer	NOP	104225219	90688	128
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	139	School Board	 District 2	610002	Ray Messer	NOP	104225219	90688	132
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	66	School Board	 District 2	610002	Vance B. Pedrick	NOP	130406029	90689	86
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	324	School Board	 District 2	610002	Vance B. Pedrick	NOP	130406029	90689	128
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	139	School Board	 District 2	610002	Vance B. Pedrick	NOP	130406029	90689	154
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	School Board	 District 2	610002	OverVotes	 	0	901	0
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	02	Alligator Point	392	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	10
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	05	Carrabelle	1606	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	5
+FRA	Franklin	49893	08/18/2026	2026 Primary Election	06	Lanark Village	707	0	0	0	School Board	 District 2	610002	UnderVotes	 	0	902	7

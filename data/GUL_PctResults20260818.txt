@@ -1,0 +1,640 @@
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	106
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	55
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	40
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	30
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	86
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	32
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	38
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	United States Senator	 	120001	Chris Gleason	REP	0	89890	13
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	521
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	289
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	266
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	229
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	600
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	82
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	151
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	86
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	146
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	United States Senator	 	120001	Ashley Moody	REP	0	89119	128
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	13
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	United States Senator	 	120001	Neelam Taneja Perry	REP	0	89391	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	20
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	26
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	United States Senator	 	120001	Ernest "Ernie" Rivera	REP	0	90436	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	United States Senator	 	120001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	27
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	12
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	17
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	United States Senator	 	120001	UnderVotes	 	0	902	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	84
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	42
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	36
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	253
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	52
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	14
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	14
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	United States Senator	 	120002	Angie Nixon	DEM	0	90009	25
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	35
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	27
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	29
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	45
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	38
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	43
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	United States Senator	 	120002	Alex Vindman	DEM	0	90509	12
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	United States Senator	 	120002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	13
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	United States Senator	 	120002	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	78
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	44
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	45
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	23
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	56
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	33
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	41
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Representative in Congress	 District 2	140021	Keith Gross	REP	0	89742	17
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Representative in Congress	 District 2	140021	Lee Jones	REP	0	92222	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Representative in Congress	 District 2	140021	Nick Lewis	REP	129627784	89722	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	55
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	34
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	17
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	17
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	57
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	13
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	20
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Representative in Congress	 District 2	140021	Luke Murphy	REP	0	90566	27
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	286
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	156
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	141
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	174
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	419
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	40
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	87
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	54
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	70
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Representative in Congress	 District 2	140021	Jim Norton	REP	0	89879	64
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	37
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	35
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	32
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	24
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	52
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	27
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Representative in Congress	 District 2	140021	Evan Power	REP	0	89694	11
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	186
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	86
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	80
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	31
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	139
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	32
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	16
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	39
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Representative in Congress	 District 2	140021	Austin Rogers	REP	0	89929	27
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	15
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Representative in Congress	 District 2	140021	Audie Rowell	REP	0	89849	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Representative in Congress	 District 2	140021	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Representative in Congress	 District 2	140021	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	95
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	20
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	14
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Representative in Congress	 District 2	140022	Yen Bailey	DEM	0	88863	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	46
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	12
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	23
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	78
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Representative in Congress	 District 2	140022	Brice Barnes	DEM	0	90284	12
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	44
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	33
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	27
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	108
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	39
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	20
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	19
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Representative in Congress	 District 2	140022	Amanda Marie Green	DEM	0	89535	19
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	12
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	11
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Representative in Congress	 District 2	140022	Nicholas Zateslo	DEM	0	89160	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Representative in Congress	 District 2	140022	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	15
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Representative in Congress	 District 2	140022	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Jay Collins	REP	0	89690	230
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Jay Collins	REP	0	89690	128
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Jay Collins	REP	0	89690	81
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Jay Collins	REP	0	89690	70
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Jay Collins	REP	0	89690	237
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Jay Collins	REP	0	89690	30
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Jay Collins	REP	0	89690	51
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Jay Collins	REP	0	89690	23
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Jay Collins	REP	0	89690	64
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Jay Collins	REP	0	89690	33
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	197
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	118
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	142
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	108
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	294
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	30
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	94
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	41
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	73
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Byron Donalds	REP	103089553	89042	75
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	58
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	28
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	34
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	28
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	71
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	12
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	24
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	19
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	25
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	James Fishback	REP	120357844	89600	20
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	15
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Jim Holcomb	REP	0	89140	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Arthur Joseph McCaffrey	REP	100254623	90679	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Daniel Nokovich	REP	104052254	90250	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	45
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	16
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	33
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	24
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	46
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	20
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	11
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Paul Renner	REP	101811890	89414	11
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Rachel Rodriguez	REP	0	89711	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	James W. Shaw	REP	0	89867	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Caneste Succe	REP	0	89052	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	97
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	53
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	19
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	54
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	15
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Governor	 	160001	Bobby Williams	REP	132100361	89032	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Governor	 	160001	OverVotes	 	0	901	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Governor	 	160001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Governor	 	160001	UnderVotes	 	0	902	13
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Governor	 	160001	UnderVotes	 	0	902	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Governor	 	160001	UnderVotes	 	0	902	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Governor	 	160001	UnderVotes	 	0	902	11
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Governor	 	160001	UnderVotes	 	0	902	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Governor	 	160001	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Governor	 	160001	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Governor	 	160001	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Governor	 	160001	UnderVotes	 	0	902	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	51
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Governor	 	160002	Evelyn Castillo-Bach	DEM	102041575	89619	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	11
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	30
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Governor	 	160002	Thomas Eloy Fernandez	DEM	116653401	89629	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	12
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	41
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Governor	 	160002	Dayna Marie Foster	DEM	120469909	89353	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	72
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	43
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	36
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	111
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	59
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	10
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	44
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	28
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Governor	 	160002	David Jolly and Gwen Graham	DEM	114396633	89243	21
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	26
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Governor	 	160002	Dotie Joseph	DEM	115975522	92056	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	9
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	27
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Governor	 	160002	Stephann Norman	DEM	120729740	89987	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Governor	 	160002	OverVotes	 	0	901	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Governor	 	160002	OverVotes	 	0	901	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Governor	 	160002	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Governor	 	160002	UnderVotes	 	0	902	17
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Governor	 	160002	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Governor	 	160002	UnderVotes	 	0	902	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Governor	 	160002	UnderVotes	 	0	902	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Governor	 	160002	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Governor	 	160002	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	388
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	168
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	138
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	133
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	341
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	55
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	75
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	54
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	107
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Chief Financial Officer	 	160501	Frank William Collige	REP	118589184	88803	70
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	245
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	173
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	160
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	108
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	347
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	30
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	112
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	38
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	80
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Chief Financial Officer	 	160501	Blaise Ingoglia	REP	0	89394	70
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Chief Financial Officer	 	160501	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	43
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	24
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	31
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	39
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	55
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	16
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	15
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Chief Financial Officer	 	160501	UnderVotes	 	0	902	16
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	65
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	39
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	137
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	34
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	11
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	19
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	14
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Chief Financial Officer	 	160502	Earle Ford	DEM	123171488	90995	18
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	55
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	30
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	41
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	143
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	53
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	35
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	6
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	17
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Chief Financial Officer	 	160502	Annette Taddeo	DEM	110046521	91310	19
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Chief Financial Officer	 	160502	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	17
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	31
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Chief Financial Officer	 	160502	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	401
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	236
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	225
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	174
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	489
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	56
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	125
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	53
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	132
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Commissioner of Agriculture	 	160801	Wilton Simpson	REP	106529629	90560	94
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	1573	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	249
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	979	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	110
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	738	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	83
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	516	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	83
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	1440	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	215
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	178	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	32
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	584	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	65
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	213	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	42
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	505	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	62
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	409	0	0	Commissioner of Agriculture	 	160801	Matt Taylor	REP	115571345	89531	47
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Commissioner of Agriculture	 	160801	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	26
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	19
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	21
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	39
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	13
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	3
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Commissioner of Agriculture	 	160801	UnderVotes	 	0	902	15
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	61
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	45
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	38
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	164
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	54
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	8
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	30
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	21
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Commissioner of Agriculture	 	160802	Joey Mendoza Atkins	DEM	112074615	92013	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	401	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	54
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	355	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	25
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	160	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	25
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	119
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	257	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	33
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	56	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	11
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	143	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	21
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	36	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	113	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	12
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	104	0	Commissioner of Agriculture	 	160802	Donald A. "Don" Prichard	DEM	0	90847	15
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Commissioner of Agriculture	 	160802	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	22
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	2	Wewahitchka Public Library	1533	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	3	St. Joe Beach Fire Station	1113	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	28
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	5	Centennial Building	1951	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	4
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	6	White City Fire Station	265	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	2
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	7	Cape San Blas Fire Station	923	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	7
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	8	Howard Creek Fire Station	293	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	9	Overstreet Fire Station	761	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	5
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	10	Highland View Fire Station	630	0	0	0	Commissioner of Agriculture	 	160802	UnderVotes	 	0	902	1
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	County Commissioner	 District 4	380042	Sandy E. Quinn Jr.	DEM	104293901	90730	347
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	County Commissioner	 District 4	380042	Amy Rogers	DEM	104292545	90729	39
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	616	0	County Commissioner	 District 4	380042	Tynalin "Tan"  Smiley	DEM	104292643	90731	194
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	County Commissioner	 District 4	380042	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	4	Port St Joe Fire Station	1290	0	0	0	County Commissioner	 District 4	380042	UnderVotes	 	0	902	35
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	303	School Board	 District 1	610001	Chad Bailey	NOP	104298362	90722	390
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	303	School Board	 District 1	610001	Pam Palmer	NOP	104294208	90723	225
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	303	School Board	 District 1	610001	Dennis Peak	NOP	104291957	90719	241
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	School Board	 District 1	610001	OverVotes	 	0	901	0
+GUL	Gulf	49893	08/18/2026	2026 Primary Election	1	Honeyville Community Center	2277	0	0	0	School Board	 District 1	610001	UnderVotes	 	0	902	5
